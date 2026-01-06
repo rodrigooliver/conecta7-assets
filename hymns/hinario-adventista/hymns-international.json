@@ -4,15 +4,7 @@
     "title": "Hinário Adventista do Sétimo Dia",
     "language": "pt-BR",
     "edition": "2023",
-    "total_hymns": 610,
-    "version": 109,
-    "last_updated": "2026-01-06",
-    "source": {
-      "author": "Moser José",
-      "github": "https://github.com/moser-jose",
-      "url": "https://hinario-adventista.vercel.app/",
-      "original_update": "07-02-2021"
-    }
+    "total_hymns": 610
   },
   "categories": [
     {
