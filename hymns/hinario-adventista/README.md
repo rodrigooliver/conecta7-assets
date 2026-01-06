@@ -9,15 +9,19 @@
 
 ## 📁 Arquivos
 
-### `hymns-original.json` (1.1 MB)
-JSON completo com:
+### `hymns-pt.json` (0.88 MB)
+JSON principal com formato internacional:
 - 610 hinos com letras completas
 - Categorias e subcategorias
 - Autores e informações bíblicas
-- Links para MP3s originais
+- Links para MP3s
+- Chaves em inglês (internacional)
 
-### `hymns-pt.json`
-Metadados estruturados no formato Conecta7
+### `hymns-pt.min.json` (0.68 MB)
+Versão minificada para produção
+
+### `hymns-original.json` (1.1 MB)
+Backup do formato original (Moser José)
 
 ### `audio/pt/`
 Arquivos MP3 dos hinos (~2 MB cada)
