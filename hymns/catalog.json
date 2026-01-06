@@ -9,11 +9,11 @@
       "language": "pt-BR",
       "description": "Hinário oficial da Igreja Adventista do Sétimo Dia em português.",
       "total_hymns": 610,
-      "download_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/hymns/hinario-adventista/hymns.json",
-      "cover_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/images/covers/hinario-adventista.jpg",
+      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/hymns.json",
+      "cover_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/images/covers/hinario-adventista.jpg",
       "format": "json",
       "has_audio": true,
-      "audio_base_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/hymns/hinario-adventista/audio/"
+      "audio_base_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/audio/"
     }
   ]
 }

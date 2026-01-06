@@ -14,7 +14,7 @@ Este repositório contém:
 
 Os arquivos estão disponíveis publicamente através do GitHub Raw:
 ```
-https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/CAMINHO/ARQUIVO
+https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/CAMINHO/ARQUIVO
 ```
 
 ## 📁 Estrutura

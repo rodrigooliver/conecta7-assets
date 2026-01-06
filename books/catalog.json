@@ -10,8 +10,8 @@
       "language": "pt-BR",
       "description": "Um dos livros mais populares sobre vida cristã prática.",
       "size": 850000,
-      "download_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/books/ellen-white/caminho-cristo.json",
-      "cover_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/images/covers/caminho-cristo.jpg",
+      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/books/ellen-white/caminho-cristo.json",
+      "cover_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/images/covers/caminho-cristo.jpg",
       "format": "json",
       "chapters": 13
     },
@@ -23,8 +23,8 @@
       "language": "pt-BR",
       "description": "História do conflito entre o bem e o mal através dos séculos.",
       "size": 3500000,
-      "download_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/books/ellen-white/grande-conflito.json",
-      "cover_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/images/covers/grande-conflito.jpg",
+      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/books/ellen-white/grande-conflito.json",
+      "cover_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/images/covers/grande-conflito.jpg",
       "format": "json",
       "chapters": 42
     }

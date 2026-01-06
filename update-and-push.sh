@@ -55,6 +55,6 @@ echo ""
 echo "✅ Pronto! Assets atualizados com sucesso!"
 echo ""
 echo "🔗 Verifique no GitHub:"
-git remote get-url origin 2>/dev/null || echo "https://github.com/SEU_USUARIO/conecta7-assets"
+git remote get-url origin 2>/dev/null || echo "https://github.com/rodrigooliver/conecta7-assets"
 echo ""
 
