@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-01-06",
+  "hymnals": [
+    {
+      "id": "hinario-adventista",
+      "title": "Hinário Adventista do Sétimo Dia",
+      "edition": "2023",
+      "language": "pt-BR",
+      "description": "Hinário oficial da Igreja Adventista do Sétimo Dia em português.",
+      "total_hymns": 610,
+      "download_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/hymns/hinario-adventista/hymns.json",
+      "cover_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/images/covers/hinario-adventista.jpg",
+      "format": "json",
+      "has_audio": true,
+      "audio_base_url": "https://raw.githubusercontent.com/SEU_USUARIO/conecta7-assets/main/hymns/hinario-adventista/audio/"
+    }
+  ]
+}
+

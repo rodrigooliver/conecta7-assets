@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários
+.DS_Store
+*.tmp
+*.temp
+
+# Não fazer commit de arquivos muito grandes durante desenvolvimento
+# Descomente se necessário:
+# *.mp3
+# *.mp4
+
