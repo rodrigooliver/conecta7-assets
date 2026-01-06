@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "id": "hinario-adventista-pt",
+    "title": "Hinário Adventista do Sétimo Dia",
+    "language": "pt-BR",
+    "edition": "2023",
+    "total_hymns": 610,
+    "source": "https://raw.githubusercontent.com/moser-jose/Hina7/main/src/api/hinario.json",
+    "audio_base_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/audio/pt/",
+    "ultima_atualizacao": "2026-01-06"
+  },
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Adoração",
+      "subcategorias": [
+        { "nome": "Adoração e Louvor", "hinos": "1-20" },
+        { "nome": "Culto Matutino", "hinos": "21-26" },
+        { "nome": "Culto Vespertino", "hinos": "27-30" }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Deus, o Pai",
+      "subcategorias": [
+        { "nome": "Deus, o Pai", "hinos": "31-40" }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Jesus Cristo",
+      "subcategorias": [
+        { "nome": "Natal", "hinos": "41-51" },
+        { "nome": "Vida e Ministério", "hinos": "52-58" },
+        { "nome": "Sofrimento e Morte", "hinos": "59-68" },
+        { "nome": "Ressurreição e Glorificação", "hinos": "69-86" },
+        { "nome": "Pastor e Amigo", "hinos": "87-125" },
+        { "nome": "Segunda Vinda", "hinos": "126-153" }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Espírito Santo",
+      "subcategorias": [
+        { "nome": "Espírito Santo", "hinos": "154-161" }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Santa Escritura",
+      "subcategorias": [
+        { "nome": "Santa Escritura", "hinos": "162-166" }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "O Evangelho",
+      "subcategorias": [
+        { "nome": "Chamado", "hinos": "167-187" },
+        { "nome": "Graça e Redenção", "hinos": "188-215" }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Vida Cristã",
+      "subcategorias": [
+        { "nome": "Alegria e Paz", "hinos": "216-239" },
+        { "nome": "Gratidão e Louvor", "hinos": "240-250" },
+        { "nome": "Fé e Confiança", "hinos": "251-275" },
+        { "nome": "Consagração e Lealdade", "hinos": "276-305" },
+        { "nome": "Serviço Cristão", "hinos": "306-333" },
+        { "nome": "Peregrinação", "hinos": "334-341" },
+        { "nome": "Luta", "hinos": "342-348" },
+        { "nome": "Consolo e Segurança", "hinos": "349-390" },
+        { "nome": "Petição", "hinos": "391-411" },
+        { "nome": "Oração e Comunhão", "hinos": "412-427" },
+        { "nome": "Vitória e Recompensa", "hinos": "428-446" }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Lar Cristão",
+      "subcategorias": [
+        { "nome": "Casamento", "hinos": "447-449" },
+        { "nome": "Lar", "hinos": "450-454" },
+        { "nome": "Crianças", "hinos": "455-468" },
+        { "nome": "Jovens", "hinos": "469-503" }
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Igreja e Doutrina",
+      "subcategorias": [
+        { "nome": "Igreja", "hinos": "504-507" },
+        { "nome": "Escola Sabatina", "hinos": "508-509" },
+        { "nome": "Batismo", "hinos": "510-518" },
+        { "nome": "Santa Ceia", "hinos": "519-522" },
+        { "nome": "Ordenação", "hinos": "523-524" },
+        { "nome": "Lei de Deus", "hinos": "525-526" },
+        { "nome": "Sábado", "hinos": "527-532" },
+        { "nome": "Justificação", "hinos": "533-542" },
+        { "nome": "Juízo Final", "hinos": "543-546" },
+        { "nome": "Nova Terra", "hinos": "547-572" }
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Cânticos Responsivos",
+      "subcategorias": [
+        { "nome": "Entrada à Plataforma", "hinos": "573-580" },
+        { "nome": "Doxologia", "hinos": "581-588" },
+        { "nome": "Ofertório", "hinos": "589-591" },
+        { "nome": "Responsos", "hinos": "592-599" },
+        { "nome": "Fim Culto", "hinos": "600-609" }
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Améns",
+      "subcategorias": [
+        { "nome": "Améns", "hinos": "610" }
+      ]
+    }
+  ],
+  "note": "Este arquivo usa o JSON original como fonte. Para letras completas, consulte hymns-original.json"
+}
+

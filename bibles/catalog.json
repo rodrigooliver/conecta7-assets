@@ -1,51 +1,50 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2026-01-06",
-  "bibles": [
-    {
-      "id": "acf",
-      "name": "Almeida Corrigida Fiel",
-      "abbreviation": "ACF",
-      "language": "pt-BR",
-      "description": "Tradução fiel aos textos originais, amplamente usada no Brasil.",
-      "size": 4200000,
-      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/acf.json",
-      "format": "json",
-      "estimated_size": 4200000
-    },
-    {
-      "id": "arc",
-      "name": "Almeida Revista e Corrigida",
-      "abbreviation": "ARC",
-      "language": "pt-BR",
-      "description": "Versão clássica em português, revisada em 1995.",
-      "size": 4100000,
-      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/arc.json",
-      "format": "json",
-      "estimated_size": 4100000
-    },
-    {
-      "id": "nvi",
-      "name": "Nova Versão Internacional",
-      "abbreviation": "NVI",
-      "language": "pt-BR",
-      "description": "Tradução moderna e de fácil compreensão.",
-      "size": 4000000,
-      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/nvi.json",
-      "format": "json",
-      "estimated_size": 4000000
-    },
-    {
-      "id": "ra",
-      "name": "Almeida Revista e Atualizada",
-      "abbreviation": "RA",
-      "language": "pt-BR",
-      "description": "Revisão de 1993, com linguagem atualizada.",
-      "size": 4150000,
-      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/ra.json",
-      "format": "json",
-      "estimated_size": 4150000
-    }
-  ]
+    "version": "1.0.0",
+    "last_updated": "2026-01-06",
+    "bibles": [
+        {
+            "id": "acf",
+            "name": "Almeida Corrigida Fiel",
+            "abbreviation": "ACF",
+            "language": "pt-BR",
+            "description": "Tradução fiel aos textos originais, amplamente usada no Brasil.",
+            "size": 4200000,
+            "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/acf.json",
+            "format": "json",
+            "estimated_size": 4200000
+        },
+        {
+            "id": "arc",
+            "name": "Almeida Revista e Corrigida",
+            "abbreviation": "ARC",
+            "language": "pt-BR",
+            "description": "Versão clássica em português, revisada em 1995.",
+            "size": 4100000,
+            "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/arc.json",
+            "format": "json",
+            "estimated_size": 4100000
+        },
+        {
+            "id": "nvi",
+            "name": "Nova Versão Internacional",
+            "abbreviation": "NVI",
+            "language": "pt-BR",
+            "description": "Tradução moderna e de fácil compreensão.",
+            "size": 4000000,
+            "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/nvi.json",
+            "format": "json",
+            "estimated_size": 4000000
+        },
+        {
+            "id": "ra",
+            "name": "Almeida Revista e Atualizada",
+            "abbreviation": "RA",
+            "language": "pt-BR",
+            "description": "Revisão de 1993, com linguagem atualizada.",
+            "size": 4150000,
+            "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/bibles/versions/ra.json",
+            "format": "json",
+            "estimated_size": 4150000
+        }
+    ]
 }
-

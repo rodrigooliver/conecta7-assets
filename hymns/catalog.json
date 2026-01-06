@@ -3,18 +3,23 @@
   "last_updated": "2026-01-06",
   "hymnals": [
     {
-      "id": "hinario-adventista",
+      "id": "hinario-adventista-pt",
       "title": "Hinário Adventista do Sétimo Dia",
       "edition": "2023",
       "language": "pt-BR",
-      "description": "Hinário oficial da Igreja Adventista do Sétimo Dia em português.",
+      "description": "Hinário oficial da Igreja Adventista do Sétimo Dia em português com 610 hinos.",
       "total_hymns": 610,
-      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/hymns.json",
-      "cover_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/images/covers/hinario-adventista.jpg",
+      "download_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/hymns-original.json",
+      "metadata_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/hymns-pt.json",
+      "cover_url": "https://raw.githubusercontent.com/moser-jose/Hina7/releases/download/vHinos/capa.png",
       "format": "json",
       "has_audio": true,
-      "audio_base_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/audio/"
+      "audio_base_url": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/audio/pt/",
+      "audio_sample": "https://raw.githubusercontent.com/rodrigooliver/conecta7-assets/main/hymns/hinario-adventista/audio/pt/001.mp3",
+      "source": "https://github.com/moser-jose/Hina7",
+      "author": "Moser José"
     }
-  ]
+  ],
+  "note": "Áudios podem estar em repositório externo devido ao tamanho (1.2 GB total)"
 }
 
