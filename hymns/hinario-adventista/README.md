@@ -9,15 +9,15 @@
 
 ## 📁 Arquivos
 
-### `hymns-pt.json` (0.88 MB)
-JSON principal com formato internacional:
+### `hymns-pt.json` (0.76 MB)
+JSON principal otimizado:
 - 610 hinos com letras completas
 - Categorias e subcategorias
 - Autores e informações bíblicas
-- Links para MP3s
+- Campos duplicados movidos para metadata
 - Chaves em inglês (internacional)
 
-### `hymns-pt.min.json` (0.68 MB)
+### `hymns-pt.min.json` (0.57 MB)
 Versão minificada para produção
 
 ### `hymns-original.json` (1.1 MB)
