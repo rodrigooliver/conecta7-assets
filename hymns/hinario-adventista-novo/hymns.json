@@ -8,8 +8,8 @@
   },
   "hymns": [
     {
-      "id": "1",
-      "number": "1",
+      "id": 1,
+      "number": 1,
       "number_display": "001",
       "title": "Santo, Santo, Santo",
       "authors": [
@@ -37,8 +37,8 @@
       "chorus": null
     },
     {
-      "id": "2",
-      "number": "2",
+      "id": 2,
+      "number": 2,
       "number_display": "002",
       "title": "Ó Adorai o Senhor",
       "authors": [
@@ -69,8 +69,8 @@
       "chorus": null
     },
     {
-      "id": "3",
-      "number": "3",
+      "id": 3,
+      "number": 3,
       "number_display": "003",
       "title": "O Deus Eterno Reina",
       "authors": [
@@ -101,8 +101,8 @@
       "chorus": null
     },
     {
-      "id": "4",
-      "number": "4",
+      "id": 4,
+      "number": 4,
       "number_display": "004",
       "title": "Louvor ao Trino Deus",
       "authors": [
@@ -133,8 +133,8 @@
       "chorus": null
     },
     {
-      "id": "5",
-      "number": "5",
+      "id": 5,
+      "number": 5,
       "number_display": "005",
       "title": "Jubilosos Te Adoramos",
       "authors": [
@@ -162,8 +162,8 @@
       "chorus": null
     },
     {
-      "id": "6",
-      "number": "6",
+      "id": 6,
+      "number": 6,
       "number_display": "006",
       "title": "Nós Te Adoramos",
       "authors": [
@@ -194,8 +194,8 @@
       "chorus": null
     },
     {
-      "id": "7",
-      "number": "7",
+      "id": 7,
+      "number": 7,
       "number_display": "007",
       "title": "Sejas Louvado",
       "authors": [
@@ -226,8 +226,8 @@
       "chorus": null
     },
     {
-      "id": "8",
-      "number": "8",
+      "id": 8,
+      "number": 8,
       "number_display": "008",
       "title": "Ó Deus de Amor",
       "authors": [
@@ -258,8 +258,8 @@
       "chorus": null
     },
     {
-      "id": "9",
-      "number": "9",
+      "id": 9,
+      "number": 9,
       "number_display": "009",
       "title": "Santo, Santo, Pai Bondoso",
       "authors": [
@@ -287,8 +287,8 @@
       "chorus": null
     },
     {
-      "id": "10",
-      "number": "10",
+      "id": 10,
+      "number": 10,
       "number_display": "010",
       "title": "O Senhor Está Aqui",
       "authors": [
@@ -313,8 +313,8 @@
       "chorus": null
     },
     {
-      "id": "11",
-      "number": "11",
+      "id": 11,
+      "number": 11,
       "number_display": "011",
       "title": "Maior Que Tudo",
       "authors": [
@@ -338,8 +338,8 @@
       "chorus": null
     },
     {
-      "id": "12",
-      "number": "12",
+      "id": 12,
+      "number": 12,
       "number_display": "012",
       "title": "Vinde, Povo do Senhor",
       "authors": [
@@ -367,8 +367,8 @@
       "chorus": null
     },
     {
-      "id": "13",
-      "number": "13",
+      "id": 13,
+      "number": 13,
       "number_display": "013",
       "title": "Louvamos-Te, Ó Deus",
       "authors": [
@@ -400,8 +400,8 @@
       "chorus": null
     },
     {
-      "id": "14",
-      "number": "14",
+      "id": 14,
+      "number": 14,
       "number_display": "014",
       "title": "Louvemos o Rei",
       "authors": [
@@ -429,8 +429,8 @@
       "chorus": null
     },
     {
-      "id": "15",
-      "number": "15",
+      "id": 15,
+      "number": 15,
       "number_display": "015",
       "title": "Tu És Fiel, Senhor",
       "authors": [
@@ -462,8 +462,8 @@
       "chorus": null
     },
     {
-      "id": "16",
-      "number": "16",
+      "id": 16,
+      "number": 16,
       "number_display": "016",
       "title": "Sublime Amor",
       "authors": [
@@ -492,8 +492,8 @@
       "chorus": null
     },
     {
-      "id": "17",
-      "number": "17",
+      "id": 17,
+      "number": 17,
       "number_display": "017",
       "title": "Deus É Nosso Pai Amado",
       "authors": [
@@ -525,8 +525,8 @@
       "chorus": null
     },
     {
-      "id": "18",
-      "number": "18",
+      "id": 18,
+      "number": 18,
       "number_display": "018",
       "title": "Deus É Nosso Pai Celeste",
       "authors": [
@@ -554,8 +554,8 @@
       "chorus": null
     },
     {
-      "id": "19",
-      "number": "19",
+      "id": 19,
+      "number": 19,
       "number_display": "019",
       "title": "A Deus Demos Glória",
       "authors": [
@@ -590,8 +590,8 @@
       "chorus": null
     },
     {
-      "id": "20",
-      "number": "20",
+      "id": 20,
+      "number": 20,
       "number_display": "020",
       "title": "Grande É o Senhor",
       "authors": [
@@ -618,8 +618,8 @@
       "chorus": null
     },
     {
-      "id": "21",
-      "number": "21",
+      "id": 21,
+      "number": 21,
       "number_display": "021",
       "title": "Eu Te Amo, Ó Deus",
       "authors": [
@@ -639,8 +639,8 @@
       "chorus": null
     },
     {
-      "id": "22",
-      "number": "22",
+      "id": 22,
+      "number": 22,
       "number_display": "022",
       "title": "A Ti Toda Glória",
       "authors": [],
@@ -661,8 +661,8 @@
       "chorus": null
     },
     {
-      "id": "23",
-      "number": "23",
+      "id": 23,
+      "number": 23,
       "number_display": "023",
       "title": "Louvai a Cristo",
       "authors": [
@@ -694,8 +694,8 @@
       "chorus": null
     },
     {
-      "id": "24",
-      "number": "24",
+      "id": 24,
+      "number": 24,
       "number_display": "024",
       "title": "Rei dos Reis",
       "authors": [
@@ -722,8 +722,8 @@
       "chorus": null
     },
     {
-      "id": "25",
-      "number": "25",
+      "id": 25,
+      "number": 25,
       "number_display": "025",
       "title": "Jesus, Sempre Te Amo",
       "authors": [
@@ -751,8 +751,8 @@
       "chorus": null
     },
     {
-      "id": "26",
-      "number": "26",
+      "id": 26,
+      "number": 26,
       "number_display": "026",
       "title": "Saudai o Nome de Jesus",
       "authors": [
@@ -784,8 +784,8 @@
       "chorus": null
     },
     {
-      "id": "27",
-      "number": "27",
+      "id": 27,
+      "number": 27,
       "number_display": "027",
       "title": "Com Glória Coroai",
       "authors": [
@@ -821,8 +821,8 @@
       "chorus": null
     },
     {
-      "id": "28",
-      "number": "28",
+      "id": 28,
+      "number": 28,
       "number_display": "028",
       "title": "Lindo És, Meu Mestre",
       "authors": [
@@ -850,8 +850,8 @@
       "chorus": null
     },
     {
-      "id": "29",
-      "number": "29",
+      "id": 29,
+      "number": 29,
       "number_display": "029",
       "title": "O Amor de Jesus",
       "authors": [
@@ -872,8 +872,8 @@
       "chorus": null
     },
     {
-      "id": "30",
-      "number": "30",
+      "id": 30,
+      "number": 30,
       "number_display": "030",
       "title": "Sempre Vencendo",
       "authors": [
@@ -908,8 +908,8 @@
       "chorus": null
     },
     {
-      "id": "31",
-      "number": "31",
+      "id": 31,
+      "number": 31,
       "number_display": "031",
       "title": "Jesus, Tu És a Minha Vida",
       "authors": [
@@ -934,8 +934,8 @@
       "chorus": null
     },
     {
-      "id": "32",
-      "number": "32",
+      "id": 32,
+      "number": 32,
       "number_display": "032",
       "title": "Brilha Jesus",
       "authors": [
@@ -963,8 +963,8 @@
       "chorus": null
     },
     {
-      "id": "33",
-      "number": "33",
+      "id": 33,
+      "number": 33,
       "number_display": "033",
       "title": "A Esperança É Jesus",
       "authors": [
@@ -993,8 +993,8 @@
       "chorus": null
     },
     {
-      "id": "34",
-      "number": "34",
+      "id": 34,
+      "number": 34,
       "number_display": "034",
       "title": "Precioso Nome",
       "authors": [
@@ -1023,8 +1023,8 @@
       "chorus": null
     },
     {
-      "id": "35",
-      "number": "35",
+      "id": 35,
+      "number": 35,
       "number_display": "035",
       "title": "Ele É Exaltado",
       "authors": [
@@ -1052,8 +1052,8 @@
       "chorus": null
     },
     {
-      "id": "36",
-      "number": "36",
+      "id": 36,
+      "number": 36,
       "number_display": "036",
       "title": "Por Seu Imenso Amor",
       "authors": [
@@ -1086,8 +1086,8 @@
       "chorus": null
     },
     {
-      "id": "37",
-      "number": "37",
+      "id": 37,
+      "number": 37,
       "number_display": "037",
       "title": "Cristo",
       "authors": [
@@ -1112,8 +1112,8 @@
       "chorus": null
     },
     {
-      "id": "38",
-      "number": "38",
+      "id": 38,
+      "number": 38,
       "number_display": "038",
       "title": "A Ti Rendemos Glórias",
       "authors": [
@@ -1141,8 +1141,8 @@
       "chorus": null
     },
     {
-      "id": "39",
-      "number": "39",
+      "id": 39,
+      "number": 39,
       "number_display": "039",
       "title": "Glórias ao Rei de Amor",
       "authors": [
@@ -1170,8 +1170,8 @@
       "chorus": null
     },
     {
-      "id": "40",
-      "number": "40",
+      "id": 40,
+      "number": 40,
       "number_display": "040",
       "title": "Concede-Nos o Espírito",
       "authors": [
@@ -1199,8 +1199,8 @@
       "chorus": null
     },
     {
-      "id": "41",
-      "number": "41",
+      "id": 41,
+      "number": 41,
       "number_display": "041",
       "title": "Chuvas de Bênçãos",
       "authors": [
@@ -1236,8 +1236,8 @@
       "chorus": null
     },
     {
-      "id": "42",
-      "number": "42",
+      "id": 42,
+      "number": 42,
       "number_display": "042",
       "title": "Vive em Mim",
       "authors": [
@@ -1269,8 +1269,8 @@
       "chorus": null
     },
     {
-      "id": "43",
-      "number": "43",
+      "id": 43,
+      "number": 43,
       "number_display": "043",
       "title": "Vem, Santo Espírito, Agora",
       "authors": [
@@ -1302,8 +1302,8 @@
       "chorus": null
     },
     {
-      "id": "44",
-      "number": "44",
+      "id": 44,
+      "number": 44,
       "number_display": "044",
       "title": "O Santo Espírito",
       "authors": [
@@ -1328,8 +1328,8 @@
       "chorus": null
     },
     {
-      "id": "45",
-      "number": "45",
+      "id": 45,
+      "number": 45,
       "number_display": "045",
       "title": "Suave Espírito",
       "authors": [
@@ -1354,8 +1354,8 @@
       "chorus": null
     },
     {
-      "id": "46",
-      "number": "46",
+      "id": 46,
+      "number": 46,
       "number_display": "046",
       "title": "Dia de Chuva",
       "authors": [
@@ -1380,8 +1380,8 @@
       "chorus": null
     },
     {
-      "id": "47",
-      "number": "47",
+      "id": 47,
+      "number": 47,
       "number_display": "047",
       "title": "Cheios do Espírito",
       "authors": [
@@ -1409,8 +1409,8 @@
       "chorus": null
     },
     {
-      "id": "48",
-      "number": "48",
+      "id": 48,
+      "number": 48,
       "number_display": "048",
       "title": "O Poder do Espírito",
       "authors": [
@@ -1438,8 +1438,8 @@
       "chorus": null
     },
     {
-      "id": "49",
-      "number": "49",
+      "id": 49,
+      "number": 49,
       "number_display": "049",
       "title": "Que Firme Alicerce",
       "authors": [
@@ -1471,8 +1471,8 @@
       "chorus": null
     },
     {
-      "id": "50",
-      "number": "50",
+      "id": 50,
+      "number": 50,
       "number_display": "050",
       "title": "Que Alicerce Seguro",
       "authors": [
@@ -1507,8 +1507,8 @@
       "chorus": null
     },
     {
-      "id": "51",
-      "number": "51",
+      "id": 51,
+      "number": 51,
       "number_display": "051",
       "title": "Dá-Me a Bíblia",
       "authors": [
@@ -1540,8 +1540,8 @@
       "chorus": null
     },
     {
-      "id": "52",
-      "number": "52",
+      "id": 52,
+      "number": 52,
       "number_display": "052",
       "title": "Novas de Amor e Vida",
       "authors": [
@@ -1570,8 +1570,8 @@
       "chorus": null
     },
     {
-      "id": "53",
-      "number": "53",
+      "id": 53,
+      "number": 53,
       "number_display": "053",
       "title": "Que Diz a Bíblia?",
       "authors": [
@@ -1600,8 +1600,8 @@
       "chorus": null
     },
     {
-      "id": "54",
-      "number": "54",
+      "id": 54,
+      "number": 54,
       "number_display": "054",
       "title": "Unidos pela Palavra",
       "authors": [
@@ -1622,8 +1622,8 @@
       "chorus": null
     },
     {
-      "id": "55",
-      "number": "55",
+      "id": 55,
+      "number": 55,
       "number_display": "055",
       "title": "Tua Palavra",
       "authors": [
@@ -1648,8 +1648,8 @@
       "chorus": null
     },
     {
-      "id": "56",
-      "number": "56",
+      "id": 56,
+      "number": 56,
       "number_display": "056",
       "title": "Nossa Inspiração",
       "authors": [
@@ -1674,8 +1674,8 @@
       "chorus": null
     },
     {
-      "id": "57",
-      "number": "57",
+      "id": 57,
+      "number": 57,
       "number_display": "057",
       "title": "A Palavra do Senhor",
       "authors": [
@@ -1700,8 +1700,8 @@
       "chorus": null
     },
     {
-      "id": "58",
-      "number": "58",
+      "id": 58,
+      "number": 58,
       "number_display": "058",
       "title": "O Pão da Vida",
       "authors": [
@@ -1729,8 +1729,8 @@
       "chorus": null
     },
     {
-      "id": "59",
-      "number": "59",
+      "id": 59,
+      "number": 59,
       "number_display": "059",
       "title": "Por Belezas Naturais",
       "authors": [
@@ -1761,8 +1761,8 @@
       "chorus": null
     },
     {
-      "id": "60",
-      "number": "60",
+      "id": 60,
+      "number": 60,
       "number_display": "060",
       "title": "Ao Deus de Abraão Louvai",
       "authors": [
@@ -1793,8 +1793,8 @@
       "chorus": null
     },
     {
-      "id": "61",
-      "number": "61",
+      "id": 61,
+      "number": 61,
       "number_display": "061",
       "title": "Vós, Criaturas do Senhor",
       "authors": [
@@ -1826,8 +1826,8 @@
       "chorus": null
     },
     {
-      "id": "62",
-      "number": "62",
+      "id": 62,
+      "number": 62,
       "number_display": "062",
       "title": "Quão Grande És Tu",
       "authors": [
@@ -1866,8 +1866,8 @@
       "chorus": null
     },
     {
-      "id": "63",
-      "number": "63",
+      "id": 63,
+      "number": 63,
       "number_display": "063",
       "title": "O Mundo É de Meu Deus",
       "authors": [
@@ -1895,8 +1895,8 @@
       "chorus": null
     },
     {
-      "id": "64",
-      "number": "64",
+      "id": 64,
+      "number": 64,
       "number_display": "064",
       "title": "Vaso Novo",
       "authors": [
@@ -1921,8 +1921,8 @@
       "chorus": null
     },
     {
-      "id": "65",
-      "number": "65",
+      "id": 65,
+      "number": 65,
       "number_display": "065",
       "title": "Das Mãos do Criador",
       "authors": [
@@ -1951,8 +1951,8 @@
       "chorus": null
     },
     {
-      "id": "66",
-      "number": "66",
+      "id": 66,
+      "number": 66,
       "number_display": "066",
       "title": "Não Há Outro Igual a Você",
       "authors": [
@@ -1980,8 +1980,8 @@
       "chorus": null
     },
     {
-      "id": "67",
-      "number": "67",
+      "id": 67,
+      "number": 67,
       "number_display": "067",
       "title": "Restaura em Mim",
       "authors": [
@@ -2006,8 +2006,8 @@
       "chorus": null
     },
     {
-      "id": "68",
-      "number": "68",
+      "id": 68,
+      "number": 68,
       "number_display": "068",
       "title": "Restaura",
       "authors": [
@@ -2036,8 +2036,8 @@
       "chorus": null
     },
     {
-      "id": "69",
-      "number": "69",
+      "id": 69,
+      "number": 69,
       "number_display": "069",
       "title": "Obrigado, Bom Pai",
       "authors": [
@@ -2081,8 +2081,8 @@
       "chorus": null
     },
     {
-      "id": "70",
-      "number": "70",
+      "id": 70,
+      "number": 70,
       "number_display": "070",
       "title": "A Real Bandeira",
       "authors": [
@@ -2117,8 +2117,8 @@
       "chorus": null
     },
     {
-      "id": "71",
-      "number": "71",
+      "id": 71,
+      "number": 71,
       "number_display": "071",
       "title": "Vitória em Cristo",
       "authors": [
@@ -2150,8 +2150,8 @@
       "chorus": null
     },
     {
-      "id": "72",
-      "number": "72",
+      "id": 72,
+      "number": 72,
       "number_display": "072",
       "title": "Firme nas Promessas",
       "authors": [
@@ -2188,8 +2188,8 @@
       "chorus": null
     },
     {
-      "id": "73",
-      "number": "73",
+      "id": 73,
+      "number": 73,
       "number_display": "073",
       "title": "Castelo Forte",
       "authors": [
@@ -2229,8 +2229,8 @@
       "chorus": null
     },
     {
-      "id": "74",
-      "number": "74",
+      "id": 74,
+      "number": 74,
       "number_display": "074",
       "title": "Grande Comandante",
       "authors": [
@@ -2262,8 +2262,8 @@
       "chorus": null
     },
     {
-      "id": "75",
-      "number": "75",
+      "id": 75,
+      "number": 75,
       "number_display": "075",
       "title": "Fé É a Vitória",
       "authors": [
@@ -2295,8 +2295,8 @@
       "chorus": null
     },
     {
-      "id": "76",
-      "number": "76",
+      "id": 76,
+      "number": 76,
       "number_display": "076",
       "title": "Vencedor Cada Dia",
       "authors": [
@@ -2325,8 +2325,8 @@
       "chorus": null
     },
     {
-      "id": "77",
-      "number": "77",
+      "id": 77,
+      "number": 77,
       "number_display": "077",
       "title": "Ó Cristãos, Avante!",
       "authors": [
@@ -2361,8 +2361,8 @@
       "chorus": null
     },
     {
-      "id": "78",
-      "number": "78",
+      "id": 78,
+      "number": 78,
       "number_display": "078",
       "title": "Um Vencedor",
       "authors": [
@@ -2387,8 +2387,8 @@
       "chorus": null
     },
     {
-      "id": "79",
-      "number": "79",
+      "id": 79,
+      "number": 79,
       "number_display": "079",
       "title": "Noite de Paz",
       "authors": [
@@ -2416,8 +2416,8 @@
       "chorus": null
     },
     {
-      "id": "80",
-      "number": "80",
+      "id": 80,
+      "number": 80,
       "number_display": "080",
       "title": "Soou em Meio à Noite Azul",
       "authors": [
@@ -2448,8 +2448,8 @@
       "chorus": null
     },
     {
-      "id": "81",
-      "number": "81",
+      "id": 81,
+      "number": 81,
       "number_display": "081",
       "title": "Surgem Anjos Proclamando",
       "authors": [
@@ -2494,8 +2494,8 @@
       "chorus": null
     },
     {
-      "id": "82",
-      "number": "82",
+      "id": 82,
+      "number": 82,
       "number_display": "082",
       "title": "Num Berço de Palha",
       "authors": [
@@ -2526,8 +2526,8 @@
       "chorus": null
     },
     {
-      "id": "83",
-      "number": "83",
+      "id": 83,
+      "number": 83,
       "number_display": "083",
       "title": "Canção da Manjedoura",
       "authors": [
@@ -2558,8 +2558,8 @@
       "chorus": null
     },
     {
-      "id": "84",
-      "number": "84",
+      "id": 84,
+      "number": 84,
       "number_display": "084",
       "title": "Ó Vinde, Adoremos",
       "authors": [
@@ -2594,8 +2594,8 @@
       "chorus": null
     },
     {
-      "id": "85",
-      "number": "85",
+      "id": 85,
+      "number": 85,
       "number_display": "085",
       "title": "Estrela de Luz",
       "authors": [
@@ -2624,8 +2624,8 @@
       "chorus": null
     },
     {
-      "id": "86",
-      "number": "86",
+      "id": 86,
+      "number": 86,
       "number_display": "086",
       "title": "Nasce Jesus",
       "authors": [
@@ -2660,8 +2660,8 @@
       "chorus": null
     },
     {
-      "id": "87",
-      "number": "87",
+      "id": 87,
+      "number": 87,
       "number_display": "087",
       "title": "Belém, Bendita És",
       "authors": [
@@ -2692,8 +2692,8 @@
       "chorus": null
     },
     {
-      "id": "88",
-      "number": "88",
+      "id": 88,
+      "number": 88,
       "number_display": "088",
       "title": "Cristo Nasceu",
       "authors": [
@@ -2724,8 +2724,8 @@
       "chorus": null
     },
     {
-      "id": "89",
-      "number": "89",
+      "id": 89,
+      "number": 89,
       "number_display": "089",
       "title": "Natal! Feliz Natal!",
       "authors": [],
@@ -2758,8 +2758,8 @@
       "chorus": null
     },
     {
-      "id": "90",
-      "number": "90",
+      "id": 90,
+      "number": 90,
       "number_display": "090",
       "title": "Glória ao Rei Que Vos Nasceu",
       "authors": [
@@ -2790,8 +2790,8 @@
       "chorus": null
     },
     {
-      "id": "91",
-      "number": "91",
+      "id": 91,
+      "number": 91,
       "number_display": "091",
       "title": "Ó Noite Santa!",
       "authors": [
@@ -2823,8 +2823,8 @@
       "chorus": null
     },
     {
-      "id": "92",
-      "number": "92",
+      "id": 92,
+      "number": 92,
       "number_display": "092",
       "title": "Onde Estavam?",
       "authors": [
@@ -2861,8 +2861,8 @@
       "chorus": null
     },
     {
-      "id": "93",
-      "number": "93",
+      "id": 93,
+      "number": 93,
       "number_display": "093",
       "title": "Nasceu o Salvador",
       "authors": [
@@ -2891,8 +2891,8 @@
       "chorus": null
     },
     {
-      "id": "94",
-      "number": "94",
+      "id": 94,
+      "number": 94,
       "number_display": "094",
       "title": "Vestido em Linho",
       "authors": [
@@ -2932,8 +2932,8 @@
       "chorus": null
     },
     {
-      "id": "95",
-      "number": "95",
+      "id": 95,
+      "number": 95,
       "number_display": "095",
       "title": "Amor Que por Amor Desceste",
       "authors": [
@@ -2965,8 +2965,8 @@
       "chorus": null
     },
     {
-      "id": "96",
-      "number": "96",
+      "id": 96,
+      "number": 96,
       "number_display": "096",
       "title": "Foi Amor",
       "authors": [
@@ -2993,8 +2993,8 @@
       "chorus": null
     },
     {
-      "id": "97",
-      "number": "97",
+      "id": 97,
+      "number": 97,
       "number_display": "097",
       "title": "Por Que Me Amou Assim?",
       "authors": [
@@ -3031,8 +3031,8 @@
       "chorus": null
     },
     {
-      "id": "98",
-      "number": "98",
+      "id": 98,
+      "number": 98,
       "number_display": "098",
       "title": "Conta-Me a História de Cristo",
       "authors": [
@@ -3072,8 +3072,8 @@
       "chorus": null
     },
     {
-      "id": "99",
-      "number": "99",
+      "id": 99,
+      "number": 99,
       "number_display": "099",
       "title": "Conta-Me a Velha História",
       "authors": [
@@ -3116,8 +3116,8 @@
       "chorus": null
     },
     {
-      "id": "100",
-      "number": "100",
+      "id": 100,
+      "number": 100,
       "number_display": "100",
       "title": "A Doce História",
       "authors": [
@@ -3157,8 +3157,8 @@
       "chorus": null
     },
     {
-      "id": "101",
-      "number": "101",
+      "id": 101,
+      "number": 101,
       "number_display": "101",
       "title": "Seu Maravilhoso Olhar",
       "authors": [
@@ -3204,8 +3204,8 @@
       "chorus": null
     },
     {
-      "id": "102",
-      "number": "102",
+      "id": 102,
+      "number": 102,
       "number_display": "102",
       "title": "Ó Vem! Emanuel",
       "authors": [],
@@ -3238,8 +3238,8 @@
       "chorus": null
     },
     {
-      "id": "103",
-      "number": "103",
+      "id": 103,
+      "number": 103,
       "number_display": "103",
       "title": "Rude Cruz",
       "authors": [
@@ -3282,8 +3282,8 @@
       "chorus": null
     },
     {
-      "id": "104",
-      "number": "104",
+      "id": 104,
+      "number": 104,
       "number_display": "104",
       "title": "Na Senda do Calvário",
       "authors": [
@@ -3312,8 +3312,8 @@
       "chorus": null
     },
     {
-      "id": "105",
-      "number": "105",
+      "id": 105,
+      "number": 105,
       "number_display": "105",
       "title": "Oh! Fronte Ensanguentada!",
       "authors": [
@@ -3341,8 +3341,8 @@
       "chorus": null
     },
     {
-      "id": "106",
-      "number": "106",
+      "id": 106,
+      "number": 106,
       "number_display": "106",
       "title": "Cristo no Horto",
       "authors": [
@@ -3369,8 +3369,8 @@
       "chorus": null
     },
     {
-      "id": "107",
-      "number": "107",
+      "id": 107,
+      "number": 107,
       "number_display": "107",
       "title": "Na Cruz Morri por Ti",
       "authors": [
@@ -3401,8 +3401,8 @@
       "chorus": null
     },
     {
-      "id": "108",
-      "number": "108",
+      "id": 108,
+      "number": 108,
       "number_display": "108",
       "title": "Foi por Você Também",
       "authors": [
@@ -3427,8 +3427,8 @@
       "chorus": null
     },
     {
-      "id": "109",
-      "number": "109",
+      "id": 109,
+      "number": 109,
       "number_display": "109",
       "title": "Houve Alguém",
       "authors": [
@@ -3468,8 +3468,8 @@
       "chorus": null
     },
     {
-      "id": "110",
-      "number": "110",
+      "id": 110,
+      "number": 110,
       "number_display": "110",
       "title": "Monte do Calvário",
       "authors": [
@@ -3501,8 +3501,8 @@
       "chorus": null
     },
     {
-      "id": "111",
-      "number": "111",
+      "id": 111,
+      "number": 111,
       "number_display": "111",
       "title": "Ao Ver a Cruz",
       "authors": [
@@ -3534,8 +3534,8 @@
       "chorus": null
     },
     {
-      "id": "112",
-      "number": "112",
+      "id": 112,
+      "number": 112,
       "number_display": "112",
       "title": "Cordeiro de Deus",
       "authors": [
@@ -3564,8 +3564,8 @@
       "chorus": null
     },
     {
-      "id": "113",
-      "number": "113",
+      "id": 113,
+      "number": 113,
       "number_display": "113",
       "title": "´Stavas Lá?",
       "authors": [],
@@ -3586,8 +3586,8 @@
       "chorus": null
     },
     {
-      "id": "114",
-      "number": "114",
+      "id": 114,
+      "number": 114,
       "number_display": "114",
       "title": "Cristo Já Ressuscitou",
       "authors": [
@@ -3615,8 +3615,8 @@
       "chorus": null
     },
     {
-      "id": "115",
-      "number": "115",
+      "id": 115,
+      "number": 115,
       "number_display": "115",
       "title": "Preciosa Graça",
       "authors": [
@@ -3648,8 +3648,8 @@
       "chorus": null
     },
     {
-      "id": "116",
-      "number": "116",
+      "id": 116,
+      "number": 116,
       "number_display": "116",
       "title": "Maravilhosa Graça",
       "authors": [
@@ -3689,8 +3689,8 @@
       "chorus": null
     },
     {
-      "id": "117",
-      "number": "117",
+      "id": 117,
+      "number": 117,
       "number_display": "117",
       "title": "Infinita Graça",
       "authors": [],
@@ -3715,8 +3715,8 @@
       "chorus": null
     },
     {
-      "id": "118",
-      "number": "118",
+      "id": 118,
+      "number": 118,
       "number_display": "118",
       "title": "Imenso Amor",
       "authors": [
@@ -3770,8 +3770,8 @@
       "chorus": null
     },
     {
-      "id": "119",
-      "number": "119",
+      "id": 119,
+      "number": 119,
       "number_display": "119",
       "title": "Graça de Deus",
       "authors": [
@@ -3814,8 +3814,8 @@
       "chorus": null
     },
     {
-      "id": "120",
-      "number": "120",
+      "id": 120,
+      "number": 120,
       "number_display": "120",
       "title": "Graça",
       "authors": [
@@ -3852,8 +3852,8 @@
       "chorus": null
     },
     {
-      "id": "121",
-      "number": "121",
+      "id": 121,
+      "number": 121,
       "number_display": "121",
       "title": "Por um Pecador Qual Eu",
       "authors": [
@@ -3878,8 +3878,8 @@
       "chorus": null
     },
     {
-      "id": "122",
-      "number": "122",
+      "id": 122,
+      "number": 122,
       "number_display": "122",
       "title": "Só um Passo",
       "authors": [
@@ -3922,8 +3922,8 @@
       "chorus": null
     },
     {
-      "id": "123",
-      "number": "123",
+      "id": 123,
+      "number": 123,
       "number_display": "123",
       "title": "Seu Sangue Tem Poder",
       "authors": [
@@ -3968,8 +3968,8 @@
       "chorus": null
     },
     {
-      "id": "124",
-      "number": "124",
+      "id": 124,
+      "number": 124,
       "number_display": "124",
       "title": "Deixa a Luz do Céu Entrar",
       "authors": [
@@ -4005,8 +4005,8 @@
       "chorus": null
     },
     {
-      "id": "125",
-      "number": "125",
+      "id": 125,
+      "number": 125,
       "number_display": "125",
       "title": "A Terna Voz do Salvador",
       "authors": [
@@ -4046,8 +4046,8 @@
       "chorus": null
     },
     {
-      "id": "126",
-      "number": "126",
+      "id": 126,
+      "number": 126,
       "number_display": "126",
       "title": "Foge para o Monte",
       "authors": [
@@ -4071,8 +4071,8 @@
       "chorus": null
     },
     {
-      "id": "127",
-      "number": "127",
+      "id": 127,
+      "number": 127,
       "number_display": "127",
       "title": "Vida em Olhar",
       "authors": [
@@ -4112,8 +4112,8 @@
       "chorus": null
     },
     {
-      "id": "128",
-      "number": "128",
+      "id": 128,
+      "number": 128,
       "number_display": "128",
       "title": "Se Tu Buscares a Jesus",
       "authors": [
@@ -4156,8 +4156,8 @@
       "chorus": null
     },
     {
-      "id": "129",
-      "number": "129",
+      "id": 129,
+      "number": 129,
       "number_display": "129",
       "title": "Deixa Entrar o Rei da Glória",
       "authors": [
@@ -4194,8 +4194,8 @@
       "chorus": null
     },
     {
-      "id": "130",
-      "number": "130",
+      "id": 130,
+      "number": 130,
       "number_display": "130",
       "title": "Jesus Está Esperando",
       "authors": [
@@ -4227,8 +4227,8 @@
       "chorus": null
     },
     {
-      "id": "131",
-      "number": "131",
+      "id": 131,
+      "number": 131,
       "number_display": "131",
       "title": "Manso e Suave",
       "authors": [
@@ -4265,8 +4265,8 @@
       "chorus": null
     },
     {
-      "id": "132",
-      "number": "132",
+      "id": 132,
+      "number": 132,
       "number_display": "132",
       "title": "Pra Quem Nada Tem",
       "authors": [
@@ -4303,8 +4303,8 @@
       "chorus": null
     },
     {
-      "id": "133",
-      "number": "133",
+      "id": 133,
+      "number": 133,
       "number_display": "133",
       "title": "Ó Vem, Aflito Coração",
       "authors": [
@@ -4344,8 +4344,8 @@
       "chorus": null
     },
     {
-      "id": "134",
-      "number": "134",
+      "id": 134,
+      "number": 134,
       "number_display": "134",
       "title": "Junto à Cruz",
       "authors": [
@@ -4382,8 +4382,8 @@
       "chorus": null
     },
     {
-      "id": "135",
-      "number": "135",
+      "id": 135,
+      "number": 135,
       "number_display": "135",
       "title": "Vinde às Águas",
       "authors": [
@@ -4420,8 +4420,8 @@
       "chorus": null
     },
     {
-      "id": "136",
-      "number": "136",
+      "id": 136,
+      "number": 136,
       "number_display": "136",
       "title": "Quero Estar ao Pé da Cruz",
       "authors": [
@@ -4461,8 +4461,8 @@
       "chorus": null
     },
     {
-      "id": "137",
-      "number": "137",
+      "id": 137,
+      "number": 137,
       "number_display": "137",
       "title": "Pai, Eu Me Achego a Ti",
       "authors": [
@@ -4505,8 +4505,8 @@
       "chorus": null
     },
     {
-      "id": "138",
-      "number": "138",
+      "id": 138,
+      "number": 138,
       "number_display": "138",
       "title": "Tal Qual Estou",
       "authors": [
@@ -4534,8 +4534,8 @@
       "chorus": null
     },
     {
-      "id": "139",
-      "number": "139",
+      "id": 139,
+      "number": 139,
       "number_display": "139",
       "title": "Sou de Jesus Agora",
       "authors": [
@@ -4572,8 +4572,8 @@
       "chorus": null
     },
     {
-      "id": "140",
-      "number": "140",
+      "id": 140,
+      "number": 140,
       "number_display": "140",
       "title": "Ao Pé da Cruz de Cristo",
       "authors": [
@@ -4604,8 +4604,8 @@
       "chorus": null
     },
     {
-      "id": "141",
-      "number": "141",
+      "id": 141,
+      "number": 141,
       "number_display": "141",
       "title": "Cristo Tocou-Me",
       "authors": [
@@ -4634,8 +4634,8 @@
       "chorus": null
     },
     {
-      "id": "142",
-      "number": "142",
+      "id": 142,
+      "number": 142,
       "number_display": "142",
       "title": "Perdão, Poder e Paz",
       "authors": [
@@ -4675,8 +4675,8 @@
       "chorus": null
     },
     {
-      "id": "143",
-      "number": "143",
+      "id": 143,
+      "number": 143,
       "number_display": "143",
       "title": "Ao Olhar pra Cruz",
       "authors": [
@@ -4705,8 +4705,8 @@
       "chorus": null
     },
     {
-      "id": "144",
-      "number": "144",
+      "id": 144,
+      "number": 144,
       "number_display": "144",
       "title": "Foi na Cruz",
       "authors": [
@@ -4746,8 +4746,8 @@
       "chorus": null
     },
     {
-      "id": "145",
-      "number": "145",
+      "id": 145,
+      "number": 145,
       "number_display": "145",
       "title": "É Jesus o Salvador",
       "authors": [
@@ -4775,8 +4775,8 @@
       "chorus": null
     },
     {
-      "id": "146",
-      "number": "146",
+      "id": 146,
+      "number": 146,
       "number_display": "146",
       "title": "Eu Não Sou Mais Eu",
       "authors": [
@@ -4817,8 +4817,8 @@
       "chorus": null
     },
     {
-      "id": "147",
-      "number": "147",
+      "id": 147,
+      "number": 147,
       "number_display": "147",
       "title": "Jesus Me Transformou",
       "authors": [
@@ -4858,8 +4858,8 @@
       "chorus": null
     },
     {
-      "id": "148",
-      "number": "148",
+      "id": 148,
+      "number": 148,
       "number_display": "148",
       "title": "Jesus Achou-Me",
       "authors": [
@@ -4896,8 +4896,8 @@
       "chorus": null
     },
     {
-      "id": "149",
-      "number": "149",
+      "id": 149,
+      "number": 149,
       "number_display": "149",
       "title": "Pedras",
       "authors": [
@@ -4942,8 +4942,8 @@
       "chorus": null
     },
     {
-      "id": "150",
-      "number": "150",
+      "id": 150,
+      "number": 150,
       "number_display": "150",
       "title": "Ó Jesus, Habita em Mim",
       "authors": [
@@ -4983,8 +4983,8 @@
       "chorus": null
     },
     {
-      "id": "151",
-      "number": "151",
+      "id": 151,
+      "number": 151,
       "number_display": "151",
       "title": "Amor Glorioso",
       "authors": [
@@ -5024,8 +5024,8 @@
       "chorus": null
     },
     {
-      "id": "152",
-      "number": "152",
+      "id": 152,
+      "number": 152,
       "number_display": "152",
       "title": "A Voz de Jesus",
       "authors": [
@@ -5050,8 +5050,8 @@
       "chorus": null
     },
     {
-      "id": "153",
-      "number": "153",
+      "id": 153,
+      "number": 153,
       "number_display": "153",
       "title": "O Que Penso de Meu Mestre",
       "authors": [
@@ -5095,8 +5095,8 @@
       "chorus": null
     },
     {
-      "id": "154",
-      "number": "154",
+      "id": 154,
+      "number": 154,
       "number_display": "154",
       "title": "Alvo Mais Que a Neve",
       "authors": [
@@ -5131,8 +5131,8 @@
       "chorus": null
     },
     {
-      "id": "155",
-      "number": "155",
+      "id": 155,
+      "number": 155,
       "number_display": "155",
       "title": "Meu Cálice Transborda",
       "authors": [
@@ -5169,8 +5169,8 @@
       "chorus": null
     },
     {
-      "id": "156",
-      "number": "156",
+      "id": 156,
+      "number": 156,
       "number_display": "156",
       "title": "Remido",
       "authors": [
@@ -5210,8 +5210,8 @@
       "chorus": null
     },
     {
-      "id": "157",
-      "number": "157",
+      "id": 157,
+      "number": 157,
       "number_display": "157",
       "title": "Jesus Me Remiu",
       "authors": [
@@ -5259,8 +5259,8 @@
       "chorus": null
     },
     {
-      "id": "158",
-      "number": "158",
+      "id": 158,
+      "number": 158,
       "number_display": "158",
       "title": "Creio em Milagres",
       "authors": [
@@ -5292,8 +5292,8 @@
       "chorus": null
     },
     {
-      "id": "159",
-      "number": "159",
+      "id": 159,
+      "number": 159,
       "number_display": "159",
       "title": "Um Novo Nome Lá na Glória",
       "authors": [
@@ -5322,8 +5322,8 @@
       "chorus": null
     },
     {
-      "id": "160",
-      "number": "160",
+      "id": 160,
+      "number": 160,
       "number_display": "160",
       "title": "Crescendo em Graça",
       "authors": [
@@ -5352,8 +5352,8 @@
       "chorus": null
     },
     {
-      "id": "161",
-      "number": "161",
+      "id": 161,
+      "number": 161,
       "number_display": "161",
       "title": "Salva-Me Também",
       "authors": [
@@ -5393,8 +5393,8 @@
       "chorus": null
     },
     {
-      "id": "162",
-      "number": "162",
+      "id": 162,
+      "number": 162,
       "number_display": "162",
       "title": "Sou de Jesus",
       "authors": [
@@ -5430,8 +5430,8 @@
       "chorus": null
     },
     {
-      "id": "163",
-      "number": "163",
+      "id": 163,
+      "number": 163,
       "number_display": "163",
       "title": "Para o Céu por Jesus Irei",
       "authors": [
@@ -5471,8 +5471,8 @@
       "chorus": null
     },
     {
-      "id": "164",
-      "number": "164",
+      "id": 164,
+      "number": 164,
       "number_display": "164",
       "title": "Meu Nome em Suas Mãos",
       "authors": [
@@ -5512,8 +5512,8 @@
       "chorus": null
     },
     {
-      "id": "165",
-      "number": "165",
+      "id": 165,
+      "number": 165,
       "number_display": "165",
       "title": "Hoje Sou Feliz",
       "authors": [
@@ -5553,8 +5553,8 @@
       "chorus": null
     },
     {
-      "id": "166",
-      "number": "166",
+      "id": 166,
+      "number": 166,
       "number_display": "166",
       "title": "Caminhando",
       "authors": [
@@ -5586,8 +5586,8 @@
       "chorus": null
     },
     {
-      "id": "167",
-      "number": "167",
+      "id": 167,
+      "number": 167,
       "number_display": "167",
       "title": "Tão Triste Eu Andava",
       "authors": [
@@ -5627,8 +5627,8 @@
       "chorus": null
     },
     {
-      "id": "168",
-      "number": "168",
+      "id": 168,
+      "number": 168,
       "number_display": "168",
       "title": "Eu Achei",
       "authors": [
@@ -5657,8 +5657,8 @@
       "chorus": null
     },
     {
-      "id": "169",
-      "number": "169",
+      "id": 169,
+      "number": 169,
       "number_display": "169",
       "title": "Salvo em Jesus",
       "authors": [
@@ -5698,8 +5698,8 @@
       "chorus": null
     },
     {
-      "id": "170",
-      "number": "170",
+      "id": 170,
+      "number": 170,
       "number_display": "170",
       "title": "Oh! Que Belo Hino Deus Me Deu",
       "authors": [
@@ -5736,8 +5736,8 @@
       "chorus": null
     },
     {
-      "id": "171",
-      "number": "171",
+      "id": 171,
+      "number": 171,
       "number_display": "171",
       "title": "Com Cristo no Meu Coração",
       "authors": [
@@ -5773,8 +5773,8 @@
       "chorus": null
     },
     {
-      "id": "172",
-      "number": "172",
+      "id": 172,
+      "number": 172,
       "number_display": "172",
       "title": "Ando Sempre Alegre",
       "authors": [
@@ -5806,8 +5806,8 @@
       "chorus": null
     },
     {
-      "id": "173",
-      "number": "173",
+      "id": 173,
+      "number": 173,
       "number_display": "173",
       "title": "Que Prazer É Ser de Cristo",
       "authors": [
@@ -5847,8 +5847,8 @@
       "chorus": null
     },
     {
-      "id": "174",
-      "number": "174",
+      "id": 174,
+      "number": 174,
       "number_display": "174",
       "title": "Que Consolo e Paz!",
       "authors": [
@@ -5888,8 +5888,8 @@
       "chorus": null
     },
     {
-      "id": "175",
-      "number": "175",
+      "id": 175,
+      "number": 175,
       "number_display": "175",
       "title": "De Ti Careço, Ó Deus",
       "authors": [
@@ -5925,8 +5925,8 @@
       "chorus": null
     },
     {
-      "id": "176",
-      "number": "176",
+      "id": 176,
+      "number": 176,
       "number_display": "176",
       "title": "Nunca Desanimes",
       "authors": [
@@ -5957,8 +5957,8 @@
       "chorus": null
     },
     {
-      "id": "177",
-      "number": "177",
+      "id": 177,
+      "number": 177,
       "number_display": "177",
       "title": "Conduze-Me, Meu Mestre",
       "authors": [
@@ -5986,8 +5986,8 @@
       "chorus": null
     },
     {
-      "id": "178",
-      "number": "178",
+      "id": 178,
+      "number": 178,
       "number_display": "178",
       "title": "Deus Cuidará de Ti",
       "authors": [
@@ -6019,8 +6019,8 @@
       "chorus": null
     },
     {
-      "id": "179",
-      "number": "179",
+      "id": 179,
+      "number": 179,
       "number_display": "179",
       "title": "Eu Sei em Quem Eu Creio",
       "authors": [
@@ -6052,8 +6052,8 @@
       "chorus": null
     },
     {
-      "id": "180",
-      "number": "180",
+      "id": 180,
+      "number": 180,
       "number_display": "180",
       "title": "Nunca Te Deixarei",
       "authors": [
@@ -6092,8 +6092,8 @@
       "chorus": null
     },
     {
-      "id": "181",
-      "number": "181",
+      "id": 181,
+      "number": 181,
       "number_display": "181",
       "title": "Cuidará de Mim Também",
       "authors": [
@@ -6128,8 +6128,8 @@
       "chorus": null
     },
     {
-      "id": "182",
-      "number": "182",
+      "id": 182,
+      "number": 182,
       "number_display": "182",
       "title": "Eu Pertenço ao Meu Rei",
       "authors": [
@@ -6161,8 +6161,8 @@
       "chorus": null
     },
     {
-      "id": "183",
-      "number": "183",
+      "id": 183,
+      "number": 183,
       "number_display": "183",
       "title": "Oh, Não Temas, Sou Contigo",
       "authors": [
@@ -6195,8 +6195,8 @@
       "chorus": null
     },
     {
-      "id": "184",
-      "number": "184",
+      "id": 184,
+      "number": 184,
       "number_display": "184",
       "title": "Quero Ter Jesus Comigo",
       "authors": [
@@ -6228,8 +6228,8 @@
       "chorus": null
     },
     {
-      "id": "185",
-      "number": "185",
+      "id": 185,
+      "number": 185,
       "number_display": "185",
       "title": "Cada Momento",
       "authors": [
@@ -6264,8 +6264,8 @@
       "chorus": null
     },
     {
-      "id": "186",
-      "number": "186",
+      "id": 186,
+      "number": 186,
       "number_display": "186",
       "title": "Ó Mestre, o Mar Se Revolta",
       "authors": [
@@ -6316,8 +6316,8 @@
       "chorus": null
     },
     {
-      "id": "187",
-      "number": "187",
+      "id": 187,
+      "number": 187,
       "number_display": "187",
       "title": "Refúgio em Temporal",
       "authors": [
@@ -6349,8 +6349,8 @@
       "chorus": null
     },
     {
-      "id": "188",
-      "number": "188",
+      "id": 188,
+      "number": 188,
       "number_display": "188",
       "title": "Minha Esperança",
       "authors": [
@@ -6382,8 +6382,8 @@
       "chorus": null
     },
     {
-      "id": "189",
-      "number": "189",
+      "id": 189,
+      "number": 189,
       "number_display": "189",
       "title": "Deus Sabe, Deus Ouve, Deus Vê",
       "authors": [
@@ -6415,8 +6415,8 @@
       "chorus": null
     },
     {
-      "id": "190",
-      "number": "190",
+      "id": 190,
+      "number": 190,
       "number_display": "190",
       "title": "Pertenço a Cristo",
       "authors": [
@@ -6452,8 +6452,8 @@
       "chorus": null
     },
     {
-      "id": "191",
-      "number": "191",
+      "id": 191,
+      "number": 191,
       "number_display": "191",
       "title": "Olha Com Fé para Cima",
       "authors": [
@@ -6485,8 +6485,8 @@
       "chorus": null
     },
     {
-      "id": "192",
-      "number": "192",
+      "id": 192,
+      "number": 192,
       "number_display": "192",
       "title": "Brilho Celeste",
       "authors": [
@@ -6518,8 +6518,8 @@
       "chorus": null
     },
     {
-      "id": "193",
-      "number": "193",
+      "id": 193,
+      "number": 193,
       "number_display": "193",
       "title": "Sob Suas Asas",
       "authors": [
@@ -6551,8 +6551,8 @@
       "chorus": null
     },
     {
-      "id": "194",
-      "number": "194",
+      "id": 194,
+      "number": 194,
       "number_display": "194",
       "title": "Tem Fé em Deus",
       "authors": [
@@ -6580,8 +6580,8 @@
       "chorus": null
     },
     {
-      "id": "195",
-      "number": "195",
+      "id": 195,
+      "number": 195,
       "number_display": "195",
       "title": "Minha Fé Bem Segura Está",
       "authors": [
@@ -6617,8 +6617,8 @@
       "chorus": null
     },
     {
-      "id": "196",
-      "number": "196",
+      "id": 196,
+      "number": 196,
       "number_display": "196",
       "title": "Ao Jesus Me Tomar a Mão",
       "authors": [
@@ -6654,8 +6654,8 @@
       "chorus": null
     },
     {
-      "id": "197",
-      "number": "197",
+      "id": 197,
+      "number": 197,
       "number_display": "197",
       "title": "Sou Feliz Com Jesus",
       "authors": [
@@ -6694,8 +6694,8 @@
       "chorus": null
     },
     {
-      "id": "198",
-      "number": "198",
+      "id": 198,
+      "number": 198,
       "number_display": "198",
       "title": "Deus Vos Guarde",
       "authors": [
@@ -6738,8 +6738,8 @@
       "chorus": null
     },
     {
-      "id": "199",
-      "number": "199",
+      "id": 199,
+      "number": 199,
       "number_display": "199",
       "title": "Ao Passares pelas Águas",
       "authors": [
@@ -6760,8 +6760,8 @@
       "chorus": null
     },
     {
-      "id": "200",
-      "number": "200",
+      "id": 200,
+      "number": 200,
       "number_display": "200",
       "title": "Nunca Me Deixar",
       "authors": [
@@ -6798,8 +6798,8 @@
       "chorus": null
     },
     {
-      "id": "201",
-      "number": "201",
+      "id": 201,
+      "number": 201,
       "number_display": "201",
       "title": "Dia a Dia",
       "authors": [
@@ -6827,8 +6827,8 @@
       "chorus": null
     },
     {
-      "id": "202",
-      "number": "202",
+      "id": 202,
+      "number": 202,
       "number_display": "202",
       "title": "Não Ando Só",
       "authors": [
@@ -6860,8 +6860,8 @@
       "chorus": null
     },
     {
-      "id": "203",
-      "number": "203",
+      "id": 203,
+      "number": 203,
       "number_display": "203",
       "title": "Abrigo na Rocha",
       "authors": [
@@ -6912,8 +6912,8 @@
       "chorus": null
     },
     {
-      "id": "204",
-      "number": "204",
+      "id": 204,
+      "number": 204,
       "number_display": "204",
       "title": "Meu Divino Protetor",
       "authors": [
@@ -6944,8 +6944,8 @@
       "chorus": null
     },
     {
-      "id": "205",
-      "number": "205",
+      "id": 205,
+      "number": 205,
       "number_display": "205",
       "title": "Ergo os Meus Olhos",
       "authors": [
@@ -6976,8 +6976,8 @@
       "chorus": null
     },
     {
-      "id": "206",
-      "number": "206",
+      "id": 206,
+      "number": 206,
       "number_display": "206",
       "title": "Fixa Teus Olhos no Mestre",
       "authors": [
@@ -7017,8 +7017,8 @@
       "chorus": null
     },
     {
-      "id": "207",
-      "number": "207",
+      "id": 207,
+      "number": 207,
       "number_display": "207",
       "title": "Confiei no Meu Senhor",
       "authors": [
@@ -7050,8 +7050,8 @@
       "chorus": null
     },
     {
-      "id": "208",
-      "number": "208",
+      "id": 208,
+      "number": 208,
       "number_display": "208",
       "title": "Confia em Deus",
       "authors": [
@@ -7091,8 +7091,8 @@
       "chorus": null
     },
     {
-      "id": "209",
-      "number": "209",
+      "id": 209,
+      "number": 209,
       "number_display": "209",
       "title": "Todas as Coisas Contribuem",
       "authors": [
@@ -7113,8 +7113,8 @@
       "chorus": null
     },
     {
-      "id": "210",
-      "number": "210",
+      "id": 210,
+      "number": 210,
       "number_display": "210",
       "title": "Sempre Confiante",
       "authors": [
@@ -7155,8 +7155,8 @@
       "chorus": null
     },
     {
-      "id": "211",
-      "number": "211",
+      "id": 211,
+      "number": 211,
       "number_display": "211",
       "title": "Jesus Meu Guia É",
       "authors": [
@@ -7192,8 +7192,8 @@
       "chorus": null
     },
     {
-      "id": "212",
-      "number": "212",
+      "id": 212,
+      "number": 212,
       "number_display": "212",
       "title": "Bendita Segurança",
       "authors": [
@@ -7233,8 +7233,8 @@
       "chorus": null
     },
     {
-      "id": "213",
-      "number": "213",
+      "id": 213,
+      "number": 213,
       "number_display": "213",
       "title": "Não Me Esqueci de Ti",
       "authors": [
@@ -7259,8 +7259,8 @@
       "chorus": null
     },
     {
-      "id": "214",
-      "number": "214",
+      "id": 214,
+      "number": 214,
       "number_display": "214",
       "title": "Não Há o Que Temer",
       "authors": [
@@ -7297,8 +7297,8 @@
       "chorus": null
     },
     {
-      "id": "215",
-      "number": "215",
+      "id": 215,
+      "number": 215,
       "number_display": "215",
       "title": "A Única Saída",
       "authors": [
@@ -7331,8 +7331,8 @@
       "chorus": null
     },
     {
-      "id": "216",
-      "number": "216",
+      "id": 216,
+      "number": 216,
       "number_display": "216",
       "title": "Pode Cair o Mundo",
       "authors": [
@@ -7372,8 +7372,8 @@
       "chorus": null
     },
     {
-      "id": "217",
-      "number": "217",
+      "id": 217,
+      "number": 217,
       "number_display": "217",
       "title": "Fé dos Nossos Pais",
       "authors": [
@@ -7416,8 +7416,8 @@
       "chorus": null
     },
     {
-      "id": "218",
-      "number": "218",
+      "id": 218,
+      "number": 218,
       "number_display": "218",
       "title": "Ouve-Nos, Pastor Divino",
       "authors": [
@@ -7452,8 +7452,8 @@
       "chorus": null
     },
     {
-      "id": "219",
-      "number": "219",
+      "id": 219,
+      "number": 219,
       "number_display": "219",
       "title": "Da Igreja o Fundamento",
       "authors": [
@@ -7484,8 +7484,8 @@
       "chorus": null
     },
     {
-      "id": "220",
-      "number": "220",
+      "id": 220,
+      "number": 220,
       "number_display": "220",
       "title": "Fortalece Tua Igreja",
       "authors": [
@@ -7513,8 +7513,8 @@
       "chorus": null
     },
     {
-      "id": "221",
-      "number": "221",
+      "id": 221,
+      "number": 221,
       "number_display": "221",
       "title": "Somos Igreja",
       "authors": [
@@ -7543,8 +7543,8 @@
       "chorus": null
     },
     {
-      "id": "222",
-      "number": "222",
+      "id": 222,
+      "number": 222,
       "number_display": "222",
       "title": "Somos um Pequeno Povo",
       "authors": [
@@ -7573,8 +7573,8 @@
       "chorus": null
     },
     {
-      "id": "223",
-      "number": "223",
+      "id": 223,
+      "number": 223,
       "number_display": "223",
       "title": "Há um Dever",
       "authors": [
@@ -7602,8 +7602,8 @@
       "chorus": null
     },
     {
-      "id": "224",
-      "number": "224",
+      "id": 224,
+      "number": 224,
       "number_display": "224",
       "title": "Mensagem ao Mundo",
       "authors": [
@@ -7643,8 +7643,8 @@
       "chorus": null
     },
     {
-      "id": "225",
-      "number": "225",
+      "id": 225,
+      "number": 225,
       "number_display": "225",
       "title": "Dai-Nos Luz",
       "authors": [
@@ -7681,8 +7681,8 @@
       "chorus": null
     },
     {
-      "id": "226",
-      "number": "226",
+      "id": 226,
+      "number": 226,
       "number_display": "226",
       "title": "Cristo nos Conclama",
       "authors": [
@@ -7725,8 +7725,8 @@
       "chorus": null
     },
     {
-      "id": "227",
-      "number": "227",
+      "id": 227,
+      "number": 227,
       "number_display": "227",
       "title": "Se Cristo For Comigo",
       "authors": [
@@ -7763,8 +7763,8 @@
       "chorus": null
     },
     {
-      "id": "228",
-      "number": "228",
+      "id": 228,
+      "number": 228,
       "number_display": "228",
       "title": "Onde Quer Que Seja",
       "authors": [
@@ -7807,8 +7807,8 @@
       "chorus": null
     },
     {
-      "id": "229",
-      "number": "229",
+      "id": 229,
+      "number": 229,
       "number_display": "229",
       "title": "Trabalho Cristão",
       "authors": [
@@ -7851,8 +7851,8 @@
       "chorus": null
     },
     {
-      "id": "230",
-      "number": "230",
+      "id": 230,
+      "number": 230,
       "number_display": "230",
       "title": "Ao Mundo Vou Contar",
       "authors": [
@@ -7884,8 +7884,8 @@
       "chorus": null
     },
     {
-      "id": "231",
-      "number": "231",
+      "id": 231,
+      "number": 231,
       "number_display": "231",
       "title": "Trabalhar e Orar",
       "authors": [
@@ -7922,8 +7922,8 @@
       "chorus": null
     },
     {
-      "id": "232",
-      "number": "232",
+      "id": 232,
+      "number": 232,
       "number_display": "232",
       "title": "Jesus Precisa de Ti",
       "authors": [
@@ -7955,8 +7955,8 @@
       "chorus": null
     },
     {
-      "id": "233",
-      "number": "233",
+      "id": 233,
+      "number": 233,
       "number_display": "233",
       "title": "Brilha por Cristo em Teu Viver",
       "authors": [
@@ -7999,8 +7999,8 @@
       "chorus": null
     },
     {
-      "id": "234",
-      "number": "234",
+      "id": 234,
+      "number": 234,
       "number_display": "234",
       "title": "Hoje Ajuda Alguém",
       "authors": [
@@ -8044,8 +8044,8 @@
       "chorus": null
     },
     {
-      "id": "235",
-      "number": "235",
+      "id": 235,
+      "number": 235,
       "number_display": "235",
       "title": "Somos Teus, Senhor",
       "authors": [
@@ -8078,8 +8078,8 @@
       "chorus": null
     },
     {
-      "id": "236",
-      "number": "236",
+      "id": 236,
+      "number": 236,
       "number_display": "236",
       "title": "Transbordando em Amor",
       "authors": [
@@ -8112,8 +8112,8 @@
       "chorus": null
     },
     {
-      "id": "237",
-      "number": "237",
+      "id": 237,
+      "number": 237,
       "number_display": "237",
       "title": "A Colheita",
       "authors": [
@@ -8146,8 +8146,8 @@
       "chorus": null
     },
     {
-      "id": "238",
-      "number": "238",
+      "id": 238,
+      "number": 238,
       "number_display": "238",
       "title": "Oração pela Missão",
       "authors": [
@@ -8168,8 +8168,8 @@
       "chorus": null
     },
     {
-      "id": "239",
-      "number": "239",
+      "id": 239,
+      "number": 239,
       "number_display": "239",
       "title": "Geração Esperança",
       "authors": [
@@ -8209,8 +8209,8 @@
       "chorus": null
     },
     {
-      "id": "240",
-      "number": "240",
+      "id": 240,
+      "number": 240,
       "number_display": "240",
       "title": "Brilhar por Ti",
       "authors": [
@@ -8250,8 +8250,8 @@
       "chorus": null
     },
     {
-      "id": "241",
-      "number": "241",
+      "id": 241,
+      "number": 241,
       "number_display": "241",
       "title": "A Todo Semelhante Meu",
       "authors": [
@@ -8291,8 +8291,8 @@
       "chorus": null
     },
     {
-      "id": "242",
-      "number": "242",
+      "id": 242,
+      "number": 242,
       "number_display": "242",
       "title": "Benditos Laços",
       "authors": [
@@ -8320,8 +8320,8 @@
       "chorus": null
     },
     {
-      "id": "243",
-      "number": "243",
+      "id": 243,
+      "number": 243,
       "number_display": "243",
       "title": "Jesus, Pastor Amado",
       "authors": [
@@ -8353,8 +8353,8 @@
       "chorus": null
     },
     {
-      "id": "244",
-      "number": "244",
+      "id": 244,
+      "number": 244,
       "number_display": "244",
       "title": "Ó Vem à Igreja Comigo",
       "authors": [
@@ -8391,8 +8391,8 @@
       "chorus": null
     },
     {
-      "id": "245",
-      "number": "245",
+      "id": 245,
+      "number": 245,
       "number_display": "245",
       "title": "Lado a Lado",
       "authors": [
@@ -8425,8 +8425,8 @@
       "chorus": null
     },
     {
-      "id": "246",
-      "number": "246",
+      "id": 246,
+      "number": 246,
       "number_display": "246",
       "title": "Em Família",
       "authors": [
@@ -8451,8 +8451,8 @@
       "chorus": null
     },
     {
-      "id": "247",
-      "number": "247",
+      "id": 247,
+      "number": 247,
       "number_display": "247",
       "title": "Unidos em Cristo",
       "authors": [
@@ -8489,8 +8489,8 @@
       "chorus": null
     },
     {
-      "id": "248",
-      "number": "248",
+      "id": 248,
+      "number": 248,
       "number_display": "248",
       "title": "Encontros",
       "authors": [
@@ -8531,8 +8531,8 @@
       "chorus": null
     },
     {
-      "id": "249",
-      "number": "249",
+      "id": 249,
+      "number": 249,
       "number_display": "249",
       "title": "Oh! Que Belos Hinos!",
       "authors": [
@@ -8572,8 +8572,8 @@
       "chorus": null
     },
     {
-      "id": "250",
-      "number": "250",
+      "id": 250,
+      "number": 250,
       "number_display": "250",
       "title": "A Jesus Seguir Eu Quero",
       "authors": [
@@ -8618,8 +8618,8 @@
       "chorus": null
     },
     {
-      "id": "251",
-      "number": "251",
+      "id": 251,
+      "number": 251,
       "number_display": "251",
       "title": "Meu Jesus Está Chamando",
       "authors": [
@@ -8667,8 +8667,8 @@
       "chorus": null
     },
     {
-      "id": "252",
-      "number": "252",
+      "id": 252,
+      "number": 252,
       "number_display": "252",
       "title": "Volto ao Lar",
       "authors": [
@@ -8713,8 +8713,8 @@
       "chorus": null
     },
     {
-      "id": "253",
-      "number": "253",
+      "id": 253,
+      "number": 253,
       "number_display": "253",
       "title": "Importa Renascer",
       "authors": [
@@ -8754,8 +8754,8 @@
       "chorus": null
     },
     {
-      "id": "254",
-      "number": "254",
+      "id": 254,
+      "number": 254,
       "number_display": "254",
       "title": "Agora Posso Ver",
       "authors": [
@@ -8796,8 +8796,8 @@
       "chorus": null
     },
     {
-      "id": "255",
-      "number": "255",
+      "id": 255,
+      "number": 255,
       "number_display": "255",
       "title": "As Águas Batismais",
       "authors": [
@@ -8834,8 +8834,8 @@
       "chorus": null
     },
     {
-      "id": "256",
-      "number": "256",
+      "id": 256,
+      "number": 256,
       "number_display": "256",
       "title": "A Ceia do Senhor",
       "authors": [
@@ -8860,8 +8860,8 @@
       "chorus": null
     },
     {
-      "id": "257",
-      "number": "257",
+      "id": 257,
+      "number": 257,
       "number_display": "257",
       "title": "Senhor, Tu nos Convidas",
       "authors": [
@@ -8889,8 +8889,8 @@
       "chorus": null
     },
     {
-      "id": "258",
-      "number": "258",
+      "id": 258,
+      "number": 258,
       "number_display": "258",
       "title": "A Última Ceia",
       "authors": [
@@ -8931,8 +8931,8 @@
       "chorus": null
     },
     {
-      "id": "259",
-      "number": "259",
+      "id": 259,
+      "number": 259,
       "number_display": "259",
       "title": "Em Memória de Ti",
       "authors": [
@@ -8975,8 +8975,8 @@
       "chorus": null
     },
     {
-      "id": "260",
-      "number": "260",
+      "id": 260,
+      "number": 260,
       "number_display": "260",
       "title": "Em Memória de Mim",
       "authors": [
@@ -9015,8 +9015,8 @@
       "chorus": null
     },
     {
-      "id": "261",
-      "number": "261",
+      "id": 261,
+      "number": 261,
       "number_display": "261",
       "title": "Quem Se Dispõe a Ir?",
       "authors": [
@@ -9044,8 +9044,8 @@
       "chorus": null
     },
     {
-      "id": "262",
-      "number": "262",
+      "id": 262,
+      "number": 262,
       "number_display": "262",
       "title": "Irei Aonde Jesus Mandar",
       "authors": [
@@ -9088,8 +9088,8 @@
       "chorus": null
     },
     {
-      "id": "263",
-      "number": "263",
+      "id": 263,
+      "number": 263,
       "number_display": "263",
       "title": "Mãos",
       "authors": [
@@ -9126,8 +9126,8 @@
       "chorus": null
     },
     {
-      "id": "264",
-      "number": "264",
+      "id": 264,
+      "number": 264,
       "number_display": "264",
       "title": "Envio a Ti",
       "authors": [
@@ -9159,8 +9159,8 @@
       "chorus": null
     },
     {
-      "id": "265",
-      "number": "265",
+      "id": 265,
+      "number": 265,
       "number_display": "265",
       "title": "Faz-Me um Servo",
       "authors": [
@@ -9184,8 +9184,8 @@
       "chorus": null
     },
     {
-      "id": "266",
-      "number": "266",
+      "id": 266,
+      "number": 266,
       "number_display": "266",
       "title": "No Serviço do Meu Rei",
       "authors": [
@@ -9228,8 +9228,8 @@
       "chorus": null
     },
     {
-      "id": "267",
-      "number": "267",
+      "id": 267,
+      "number": 267,
       "number_display": "267",
       "title": "As Searas Maduras",
       "authors": [
@@ -9269,8 +9269,8 @@
       "chorus": null
     },
     {
-      "id": "268",
-      "number": "268",
+      "id": 268,
+      "number": 268,
       "number_display": "268",
       "title": "Compensa Servir a Jesus",
       "authors": [
@@ -9310,8 +9310,8 @@
       "chorus": null
     },
     {
-      "id": "269",
-      "number": "269",
+      "id": 269,
+      "number": 269,
       "number_display": "269",
       "title": "Sal da Terra",
       "authors": [
@@ -9340,8 +9340,8 @@
       "chorus": null
     },
     {
-      "id": "270",
-      "number": "270",
+      "id": 270,
+      "number": 270,
       "number_display": "270",
       "title": "Vaso de Bênção",
       "authors": [
@@ -9381,8 +9381,8 @@
       "chorus": null
     },
     {
-      "id": "271",
-      "number": "271",
+      "id": 271,
+      "number": 271,
       "number_display": "271",
       "title": "Vaso de Honra",
       "authors": [
@@ -9415,8 +9415,8 @@
       "chorus": null
     },
     {
-      "id": "272",
-      "number": "272",
+      "id": 272,
+      "number": 272,
       "number_display": "272",
       "title": "Através de Nós",
       "authors": [
@@ -9448,8 +9448,8 @@
       "chorus": null
     },
     {
-      "id": "273",
-      "number": "273",
+      "id": 273,
+      "number": 273,
       "number_display": "273",
       "title": "A Escola Sabatina",
       "authors": [],
@@ -9482,8 +9482,8 @@
       "chorus": null
     },
     {
-      "id": "274",
-      "number": "274",
+      "id": 274,
+      "number": 274,
       "number_display": "274",
       "title": "O Encontro",
       "authors": [
@@ -9504,8 +9504,8 @@
       "chorus": null
     },
     {
-      "id": "275",
-      "number": "275",
+      "id": 275,
+      "number": 275,
       "number_display": "275",
       "title": "Hino dos Aventureiros",
       "authors": [
@@ -9526,8 +9526,8 @@
       "chorus": null
     },
     {
-      "id": "276",
-      "number": "276",
+      "id": 276,
+      "number": 276,
       "number_display": "276",
       "title": "Hino dos Desbravadores",
       "authors": [
@@ -9551,8 +9551,8 @@
       "chorus": null
     },
     {
-      "id": "277",
-      "number": "277",
+      "id": 277,
+      "number": 277,
       "number_display": "277",
       "title": "Bem-Aventurança",
       "authors": [
@@ -9573,8 +9573,8 @@
       "chorus": null
     },
     {
-      "id": "278",
-      "number": "278",
+      "id": 278,
+      "number": 278,
       "number_display": "278",
       "title": "A Voz de Deus",
       "authors": [
@@ -9611,8 +9611,8 @@
       "chorus": null
     },
     {
-      "id": "279",
-      "number": "279",
+      "id": 279,
+      "number": 279,
       "number_display": "279",
       "title": "A Verdade Brilhará",
       "authors": [
@@ -9649,8 +9649,8 @@
       "chorus": null
     },
     {
-      "id": "280",
-      "number": "280",
+      "id": 280,
+      "number": 280,
       "number_display": "280",
       "title": "O Espírito de Profecia",
       "authors": [
@@ -9679,8 +9679,8 @@
       "chorus": null
     },
     {
-      "id": "281",
-      "number": "281",
+      "id": 281,
+      "number": 281,
       "number_display": "281",
       "title": "Filhos da Promessa",
       "authors": [
@@ -9709,8 +9709,8 @@
       "chorus": null
     },
     {
-      "id": "282",
-      "number": "282",
+      "id": 282,
+      "number": 282,
       "number_display": "282",
       "title": "Em Sua Presença",
       "authors": [
@@ -9743,8 +9743,8 @@
       "chorus": null
     },
     {
-      "id": "283",
-      "number": "283",
+      "id": 283,
+      "number": 283,
       "number_display": "283",
       "title": "Crer e Observar",
       "authors": [
@@ -9784,8 +9784,8 @@
       "chorus": null
     },
     {
-      "id": "284",
-      "number": "284",
+      "id": 284,
+      "number": 284,
       "number_display": "284",
       "title": "Obedecer É Melhor",
       "authors": [
@@ -9822,8 +9822,8 @@
       "chorus": null
     },
     {
-      "id": "285",
-      "number": "285",
+      "id": 285,
+      "number": 285,
       "number_display": "285",
       "title": "Eu Amo a Tua Lei",
       "authors": [
@@ -9852,8 +9852,8 @@
       "chorus": null
     },
     {
-      "id": "286",
-      "number": "286",
+      "id": 286,
+      "number": 286,
       "number_display": "286",
       "title": "Tua Lei",
       "authors": [
@@ -9882,8 +9882,8 @@
       "chorus": null
     },
     {
-      "id": "287",
-      "number": "287",
+      "id": 287,
+      "number": 287,
       "number_display": "287",
       "title": "A Lei de Deus",
       "authors": [
@@ -9915,8 +9915,8 @@
       "chorus": null
     },
     {
-      "id": "288",
-      "number": "288",
+      "id": 288,
+      "number": 288,
       "number_display": "288",
       "title": "Fiel a Toda Prova",
       "authors": [
@@ -9953,8 +9953,8 @@
       "chorus": null
     },
     {
-      "id": "289",
-      "number": "289",
+      "id": 289,
+      "number": 289,
       "number_display": "289",
       "title": "A Tua Lei",
       "authors": [
@@ -9993,8 +9993,8 @@
       "chorus": null
     },
     {
-      "id": "290",
-      "number": "290",
+      "id": 290,
+      "number": 290,
       "number_display": "290",
       "title": "Do Santo Sábado És Senhor",
       "authors": [
@@ -10034,8 +10034,8 @@
       "chorus": null
     },
     {
-      "id": "291",
-      "number": "291",
+      "id": 291,
+      "number": 291,
       "number_display": "291",
       "title": "Sábado do Meu Senhor",
       "authors": [
@@ -10060,8 +10060,8 @@
       "chorus": null
     },
     {
-      "id": "292",
-      "number": "292",
+      "id": 292,
+      "number": 292,
       "number_display": "292",
       "title": "Sábado",
       "authors": [
@@ -10092,8 +10092,8 @@
       "chorus": null
     },
     {
-      "id": "293",
-      "number": "293",
+      "id": 293,
+      "number": 293,
       "number_display": "293",
       "title": "O Sábado Chegou",
       "authors": [
@@ -10121,8 +10121,8 @@
       "chorus": null
     },
     {
-      "id": "294",
-      "number": "294",
+      "id": 294,
+      "number": 294,
       "number_display": "294",
       "title": "Lembre-Se do Sábado",
       "authors": [
@@ -10165,8 +10165,8 @@
       "chorus": null
     },
     {
-      "id": "295",
-      "number": "295",
+      "id": 295,
+      "number": 295,
       "number_display": "295",
       "title": "Sábado Bendito",
       "authors": [
@@ -10203,8 +10203,8 @@
       "chorus": null
     },
     {
-      "id": "296",
-      "number": "296",
+      "id": 296,
+      "number": 296,
       "number_display": "296",
       "title": "Bem-Vindo o Sábado",
       "authors": [
@@ -10232,8 +10232,8 @@
       "chorus": null
     },
     {
-      "id": "297",
-      "number": "297",
+      "id": 297,
+      "number": 297,
       "number_display": "297",
       "title": "Dia de Esperança",
       "authors": [
@@ -10270,8 +10270,8 @@
       "chorus": null
     },
     {
-      "id": "298",
-      "number": "298",
+      "id": 298,
+      "number": 298,
       "number_display": "298",
       "title": "Deus Fez o Sábado para Mim",
       "authors": [
@@ -10292,8 +10292,8 @@
       "chorus": null
     },
     {
-      "id": "299",
-      "number": "299",
+      "id": 299,
+      "number": 299,
       "number_display": "299",
       "title": "Dia Santo",
       "authors": [
@@ -10332,8 +10332,8 @@
       "chorus": null
     },
     {
-      "id": "300",
-      "number": "300",
+      "id": 300,
+      "number": 300,
       "number_display": "300",
       "title": "Tempo de Ser Santo",
       "authors": [
@@ -10361,8 +10361,8 @@
       "chorus": null
     },
     {
-      "id": "301",
-      "number": "301",
+      "id": 301,
+      "number": 301,
       "number_display": "301",
       "title": "Toma, Ó Deus, Meu Coração",
       "authors": [
@@ -10393,8 +10393,8 @@
       "chorus": null
     },
     {
-      "id": "302",
-      "number": "302",
+      "id": 302,
+      "number": 302,
       "number_display": "302",
       "title": "Tudo Entregarei",
       "authors": [
@@ -10434,8 +10434,8 @@
       "chorus": null
     },
     {
-      "id": "303",
-      "number": "303",
+      "id": 303,
+      "number": 303,
       "number_display": "303",
       "title": "Minha Entrega",
       "authors": [
@@ -10466,8 +10466,8 @@
       "chorus": null
     },
     {
-      "id": "304",
-      "number": "304",
+      "id": 304,
+      "number": 304,
       "number_display": "304",
       "title": "Que Te Darei, Meu Mestre?",
       "authors": [
@@ -10504,8 +10504,8 @@
       "chorus": null
     },
     {
-      "id": "305",
-      "number": "305",
+      "id": 305,
+      "number": 305,
       "number_display": "305",
       "title": "Sobre o Altar",
       "authors": [
@@ -10537,8 +10537,8 @@
       "chorus": null
     },
     {
-      "id": "306",
-      "number": "306",
+      "id": 306,
+      "number": 306,
       "number_display": "306",
       "title": "Eis-Nos Prontos",
       "authors": [
@@ -10581,8 +10581,8 @@
       "chorus": null
     },
     {
-      "id": "307",
-      "number": "307",
+      "id": 307,
+      "number": 307,
       "number_display": "307",
       "title": "Conta as Bênçãos",
       "authors": [
@@ -10633,8 +10633,8 @@
       "chorus": null
     },
     {
-      "id": "308",
-      "number": "308",
+      "id": 308,
+      "number": 308,
       "number_display": "308",
       "title": "Faze Como Daniel",
       "authors": [
@@ -10671,8 +10671,8 @@
       "chorus": null
     },
     {
-      "id": "309",
-      "number": "309",
+      "id": 309,
+      "number": 309,
       "number_display": "309",
       "title": "Em Tuas Mãos",
       "authors": [
@@ -10696,8 +10696,8 @@
       "chorus": null
     },
     {
-      "id": "310",
-      "number": "310",
+      "id": 310,
+      "number": 310,
       "number_display": "310",
       "title": "Entrega",
       "authors": [
@@ -10726,8 +10726,8 @@
       "chorus": null
     },
     {
-      "id": "311",
-      "number": "311",
+      "id": 311,
+      "number": 311,
       "number_display": "311",
       "title": "Inteiramente Fiel",
       "authors": [
@@ -10756,8 +10756,8 @@
       "chorus": null
     },
     {
-      "id": "312",
-      "number": "312",
+      "id": 312,
+      "number": 312,
       "number_display": "312",
       "title": "Nas Tuas Mãos",
       "authors": [
@@ -10790,8 +10790,8 @@
       "chorus": null
     },
     {
-      "id": "313",
-      "number": "313",
+      "id": 313,
+      "number": 313,
       "number_display": "313",
       "title": "Tudo para Deus",
       "authors": [
@@ -10820,8 +10820,8 @@
       "chorus": null
     },
     {
-      "id": "314",
-      "number": "314",
+      "id": 314,
+      "number": 314,
       "number_display": "314",
       "title": "Se Ele Não For o Primeiro",
       "authors": [
@@ -10854,8 +10854,8 @@
       "chorus": null
     },
     {
-      "id": "315",
-      "number": "315",
+      "id": 315,
+      "number": 315,
       "number_display": "315",
       "title": "A Cristo Eu Amo",
       "authors": [
@@ -10892,8 +10892,8 @@
       "chorus": null
     },
     {
-      "id": "316",
-      "number": "316",
+      "id": 316,
+      "number": 316,
       "number_display": "316",
       "title": "Achei um Grande Amigo",
       "authors": [
@@ -10918,8 +10918,8 @@
       "chorus": null
     },
     {
-      "id": "317",
-      "number": "317",
+      "id": 317,
+      "number": 317,
       "number_display": "317",
       "title": "Amigo Mui Precioso",
       "authors": [
@@ -10947,8 +10947,8 @@
       "chorus": null
     },
     {
-      "id": "318",
-      "number": "318",
+      "id": 318,
+      "number": 318,
       "number_display": "318",
       "title": "Cantarei de Meu Jesus",
       "authors": [
@@ -10985,8 +10985,8 @@
       "chorus": null
     },
     {
-      "id": "319",
-      "number": "319",
+      "id": 319,
+      "number": 319,
       "number_display": "319",
       "title": "Cristo É Tudo para Mim",
       "authors": [
@@ -11011,8 +11011,8 @@
       "chorus": null
     },
     {
-      "id": "320",
-      "number": "320",
+      "id": 320,
+      "number": 320,
       "number_display": "320",
       "title": "Eu Te Amo, Meu Mestre",
       "authors": [
@@ -11037,8 +11037,8 @@
       "chorus": null
     },
     {
-      "id": "321",
-      "number": "321",
+      "id": 321,
+      "number": 321,
       "number_display": "321",
       "title": "Jesus É Melhor",
       "authors": [
@@ -11078,8 +11078,8 @@
       "chorus": null
     },
     {
-      "id": "322",
-      "number": "322",
+      "id": 322,
+      "number": 322,
       "number_display": "322",
       "title": "Jesus Me Guia",
       "authors": [
@@ -11119,8 +11119,8 @@
       "chorus": null
     },
     {
-      "id": "323",
-      "number": "323",
+      "id": 323,
+      "number": 323,
       "number_display": "323",
       "title": "Há um Amigo",
       "authors": [
@@ -11148,8 +11148,8 @@
       "chorus": null
     },
     {
-      "id": "324",
-      "number": "324",
+      "id": 324,
+      "number": 324,
       "number_display": "324",
       "title": "Jesus Teu Nome Satisfaz",
       "authors": [
@@ -11197,8 +11197,8 @@
       "chorus": null
     },
     {
-      "id": "325",
-      "number": "325",
+      "id": 325,
+      "number": 325,
       "number_display": "325",
       "title": "Junto ao Bondoso Deus",
       "authors": [
@@ -11235,8 +11235,8 @@
       "chorus": null
     },
     {
-      "id": "326",
-      "number": "326",
+      "id": 326,
+      "number": 326,
       "number_display": "326",
       "title": "Manancial de Toda Bênção",
       "authors": [
@@ -11261,8 +11261,8 @@
       "chorus": null
     },
     {
-      "id": "327",
-      "number": "327",
+      "id": 327,
+      "number": 327,
       "number_display": "327",
       "title": "Não Há Amigo Igual a Cristo",
       "authors": [
@@ -11310,8 +11310,8 @@
       "chorus": null
     },
     {
-      "id": "328",
-      "number": "328",
+      "id": 328,
+      "number": 328,
       "number_display": "328",
       "title": "Meu Deus e Eu",
       "authors": [
@@ -11336,8 +11336,8 @@
       "chorus": null
     },
     {
-      "id": "329",
-      "number": "329",
+      "id": 329,
+      "number": 329,
       "number_display": "329",
       "title": "Não Há Nome Mais Amável",
       "authors": [
@@ -11374,8 +11374,8 @@
       "chorus": null
     },
     {
-      "id": "330",
-      "number": "330",
+      "id": 330,
+      "number": 330,
       "number_display": "330",
       "title": "O Melhor Amigo",
       "authors": [
@@ -11415,8 +11415,8 @@
       "chorus": null
     },
     {
-      "id": "331",
-      "number": "331",
+      "id": 331,
+      "number": 331,
       "number_display": "331",
       "title": "Nome Precioso",
       "authors": [
@@ -11464,8 +11464,8 @@
       "chorus": null
     },
     {
-      "id": "332",
-      "number": "332",
+      "id": 332,
+      "number": 332,
       "number_display": "332",
       "title": "Tudo És para Mim",
       "authors": [
@@ -11497,8 +11497,8 @@
       "chorus": null
     },
     {
-      "id": "333",
-      "number": "333",
+      "id": 333,
+      "number": 333,
       "number_display": "333",
       "title": "Oh! Que Amigo em Cristo Temos",
       "authors": [
@@ -11526,8 +11526,8 @@
       "chorus": null
     },
     {
-      "id": "334",
-      "number": "334",
+      "id": 334,
+      "number": 334,
       "number_display": "334",
       "title": "Oh, Eu Amo a Cristo!",
       "authors": [
@@ -11564,8 +11564,8 @@
       "chorus": null
     },
     {
-      "id": "335",
-      "number": "335",
+      "id": 335,
+      "number": 335,
       "number_display": "335",
       "title": "Precioso É Jesus para Mim",
       "authors": [
@@ -11602,8 +11602,8 @@
       "chorus": null
     },
     {
-      "id": "336",
-      "number": "336",
+      "id": 336,
+      "number": 336,
       "number_display": "336",
       "title": "Salmo dos Salmos",
       "authors": [
@@ -11640,8 +11640,8 @@
       "chorus": null
     },
     {
-      "id": "337",
-      "number": "337",
+      "id": 337,
+      "number": 337,
       "number_display": "337",
       "title": "Amor nos Faz Contentes",
       "authors": [
@@ -11678,8 +11678,8 @@
       "chorus": null
     },
     {
-      "id": "338",
-      "number": "338",
+      "id": 338,
+      "number": 338,
       "number_display": "338",
       "title": "Deus Não Se Cansa de Amar",
       "authors": [
@@ -11723,8 +11723,8 @@
       "chorus": null
     },
     {
-      "id": "339",
-      "number": "339",
+      "id": 339,
+      "number": 339,
       "number_display": "339",
       "title": "Eu Sou um Pobre Peregrino",
       "authors": [
@@ -11764,8 +11764,8 @@
       "chorus": null
     },
     {
-      "id": "340",
-      "number": "340",
+      "id": 340,
+      "number": 340,
       "number_display": "340",
       "title": "Sou Forasteiro Aqui",
       "authors": [
@@ -11805,8 +11805,8 @@
       "chorus": null
     },
     {
-      "id": "341",
-      "number": "341",
+      "id": 341,
+      "number": 341,
       "number_display": "341",
       "title": "Mágoas",
       "authors": [
@@ -11846,8 +11846,8 @@
       "chorus": null
     },
     {
-      "id": "342",
-      "number": "342",
+      "id": 342,
+      "number": 342,
       "number_display": "342",
       "title": "Eu Não Te Deixarei",
       "authors": [
@@ -11888,8 +11888,8 @@
       "chorus": null
     },
     {
-      "id": "343",
-      "number": "343",
+      "id": 343,
+      "number": 343,
       "number_display": "343",
       "title": "Meu Refúgio Está no Monte",
       "authors": [
@@ -11932,8 +11932,8 @@
       "chorus": null
     },
     {
-      "id": "344",
-      "number": "344",
+      "id": 344,
+      "number": 344,
       "number_display": "344",
       "title": "Confiarei",
       "authors": [
@@ -11970,8 +11970,8 @@
       "chorus": null
     },
     {
-      "id": "345",
-      "number": "345",
+      "id": 345,
+      "number": 345,
       "number_display": "345",
       "title": "Novo Dia Chegará",
       "authors": [
@@ -12000,8 +12000,8 @@
       "chorus": null
     },
     {
-      "id": "346",
-      "number": "346",
+      "id": 346,
+      "number": 346,
       "number_display": "346",
       "title": "Como Agradecer",
       "authors": [
@@ -12026,8 +12026,8 @@
       "chorus": null
     },
     {
-      "id": "347",
-      "number": "347",
+      "id": 347,
+      "number": 347,
       "number_display": "347",
       "title": "Obrigado",
       "authors": [
@@ -12052,8 +12052,8 @@
       "chorus": null
     },
     {
-      "id": "348",
-      "number": "348",
+      "id": 348,
+      "number": 348,
       "number_display": "348",
       "title": "Graças",
       "authors": [
@@ -12084,8 +12084,8 @@
       "chorus": null
     },
     {
-      "id": "349",
-      "number": "349",
+      "id": 349,
+      "number": 349,
       "number_display": "349",
       "title": "Gratidão",
       "authors": [
@@ -12110,8 +12110,8 @@
       "chorus": null
     },
     {
-      "id": "350",
-      "number": "350",
+      "id": 350,
+      "number": 350,
       "number_display": "350",
       "title": "Senhor Jesus, Muito Obrigado",
       "authors": [
@@ -12155,8 +12155,8 @@
       "chorus": null
     },
     {
-      "id": "351",
-      "number": "351",
+      "id": 351,
+      "number": 351,
       "number_display": "351",
       "title": "Jesus, Muito Obrigado",
       "authors": [
@@ -12193,8 +12193,8 @@
       "chorus": null
     },
     {
-      "id": "352",
-      "number": "352",
+      "id": 352,
+      "number": 352,
       "number_display": "352",
       "title": "Luz Bendita, Luz Gloriosa",
       "authors": [
@@ -12242,8 +12242,8 @@
       "chorus": null
     },
     {
-      "id": "353",
-      "number": "353",
+      "id": 353,
+      "number": 353,
       "number_display": "353",
       "title": "É Prazer Servir a Cristo",
       "authors": [
@@ -12286,8 +12286,8 @@
       "chorus": null
     },
     {
-      "id": "354",
-      "number": "354",
+      "id": 354,
+      "number": 354,
       "number_display": "354",
       "title": "Paz",
       "authors": [
@@ -12330,8 +12330,8 @@
       "chorus": null
     },
     {
-      "id": "355",
-      "number": "355",
+      "id": 355,
+      "number": 355,
       "number_display": "355",
       "title": "Sempre Alegre",
       "authors": [
@@ -12371,8 +12371,8 @@
       "chorus": null
     },
     {
-      "id": "356",
-      "number": "356",
+      "id": 356,
+      "number": 356,
       "number_display": "356",
       "title": "Tenho um Hino em Meu Coração",
       "authors": [
@@ -12412,8 +12412,8 @@
       "chorus": null
     },
     {
-      "id": "357",
-      "number": "357",
+      "id": 357,
+      "number": 357,
       "number_display": "357",
       "title": "Bendita Hora de Oração",
       "authors": [
@@ -12441,8 +12441,8 @@
       "chorus": null
     },
     {
-      "id": "358",
-      "number": "358",
+      "id": 358,
+      "number": 358,
       "number_display": "358",
       "title": "Só Com Teu Deus",
       "authors": [
@@ -12470,8 +12470,8 @@
       "chorus": null
     },
     {
-      "id": "359",
-      "number": "359",
+      "id": 359,
+      "number": 359,
       "number_display": "359",
       "title": "Lugar de Paz",
       "authors": [
@@ -12488,8 +12488,8 @@
       "chorus": null
     },
     {
-      "id": "360",
-      "number": "360",
+      "id": 360,
+      "number": 360,
       "number_display": "360",
       "title": "Deus Ouve, Deus Responde",
       "authors": [
@@ -12517,8 +12517,8 @@
       "chorus": null
     },
     {
-      "id": "361",
-      "number": "361",
+      "id": 361,
+      "number": 361,
       "number_display": "361",
       "title": "Deus nos Ouvirá",
       "authors": [
@@ -12547,8 +12547,8 @@
       "chorus": null
     },
     {
-      "id": "362",
-      "number": "362",
+      "id": 362,
+      "number": 362,
       "number_display": "362",
       "title": "O Melhor Lugar do Mundo",
       "authors": [
@@ -12592,8 +12592,8 @@
       "chorus": null
     },
     {
-      "id": "363",
-      "number": "363",
+      "id": 363,
+      "number": 363,
       "number_display": "363",
       "title": "O Jardim de Oração",
       "authors": [
@@ -12633,8 +12633,8 @@
       "chorus": null
     },
     {
-      "id": "364",
-      "number": "364",
+      "id": 364,
+      "number": 364,
       "number_display": "364",
       "title": "Que Tempo Já Faz?",
       "authors": [
@@ -12658,8 +12658,8 @@
       "chorus": null
     },
     {
-      "id": "365",
-      "number": "365",
+      "id": 365,
+      "number": 365,
       "number_display": "365",
       "title": "Santa Hora de Oração",
       "authors": [
@@ -12702,8 +12702,8 @@
       "chorus": null
     },
     {
-      "id": "366",
-      "number": "366",
+      "id": 366,
+      "number": 366,
       "number_display": "366",
       "title": "No Jardim",
       "authors": [
@@ -12743,8 +12743,8 @@
       "chorus": null
     },
     {
-      "id": "367",
-      "number": "367",
+      "id": 367,
+      "number": 367,
       "number_display": "367",
       "title": "Falar Com Deus",
       "authors": [
@@ -12784,8 +12784,8 @@
       "chorus": null
     },
     {
-      "id": "368",
-      "number": "368",
+      "id": 368,
+      "number": 368,
       "number_display": "368",
       "title": "Ao Teu Lado Quero Andar",
       "authors": [
@@ -12825,8 +12825,8 @@
       "chorus": null
     },
     {
-      "id": "369",
-      "number": "369",
+      "id": 369,
+      "number": 369,
       "number_display": "369",
       "title": "Seguindo a Jesus",
       "authors": [],
@@ -12851,8 +12851,8 @@
       "chorus": null
     },
     {
-      "id": "370",
-      "number": "370",
+      "id": 370,
+      "number": 370,
       "number_display": "370",
       "title": "Bem Junto a Cristo",
       "authors": [
@@ -12877,8 +12877,8 @@
       "chorus": null
     },
     {
-      "id": "371",
-      "number": "371",
+      "id": 371,
+      "number": 371,
       "number_display": "371",
       "title": "Cada Vez Mais Puro",
       "authors": [
@@ -12906,8 +12906,8 @@
       "chorus": null
     },
     {
-      "id": "372",
-      "number": "372",
+      "id": 372,
+      "number": 372,
       "number_display": "372",
       "title": "Abre, Senhor, os Olhos Meus",
       "authors": [
@@ -12935,8 +12935,8 @@
       "chorus": null
     },
     {
-      "id": "373",
-      "number": "373",
+      "id": 373,
+      "number": 373,
       "number_display": "373",
       "title": "Deixa-Me Contigo Andar",
       "authors": [
@@ -12973,8 +12973,8 @@
       "chorus": null
     },
     {
-      "id": "374",
-      "number": "374",
+      "id": 374,
+      "number": 374,
       "number_display": "374",
       "title": "Contigo, Ó Deus, Almejo Andar",
       "authors": [
@@ -13002,8 +13002,8 @@
       "chorus": null
     },
     {
-      "id": "375",
-      "number": "375",
+      "id": 375,
+      "number": 375,
       "number_display": "375",
       "title": "Canção da Vida",
       "authors": [
@@ -13038,8 +13038,8 @@
       "chorus": null
     },
     {
-      "id": "376",
-      "number": "376",
+      "id": 376,
+      "number": 376,
       "number_display": "376",
       "title": "Cristo, Dá-Nos Tua Paz",
       "authors": [
@@ -13068,8 +13068,8 @@
       "chorus": null
     },
     {
-      "id": "377",
-      "number": "377",
+      "id": 377,
+      "number": 377,
       "number_display": "377",
       "title": "Mais de Cristo",
       "authors": [
@@ -13113,8 +13113,8 @@
       "chorus": null
     },
     {
-      "id": "378",
-      "number": "378",
+      "id": 378,
+      "number": 378,
       "number_display": "378",
       "title": "Mais Perto Quero Estar",
       "authors": [
@@ -13146,8 +13146,8 @@
       "chorus": null
     },
     {
-      "id": "379",
-      "number": "379",
+      "id": 379,
+      "number": 379,
       "number_display": "379",
       "title": "Fala à Minh`alma",
       "authors": [
@@ -13184,8 +13184,8 @@
       "chorus": null
     },
     {
-      "id": "380",
-      "number": "380",
+      "id": 380,
+      "number": 380,
       "number_display": "380",
       "title": "Sonda-Me, Ó Deus",
       "authors": [
@@ -13213,8 +13213,8 @@
       "chorus": null
     },
     {
-      "id": "381",
-      "number": "381",
+      "id": 381,
+      "number": 381,
       "number_display": "381",
       "title": "Teu Divinal Amor",
       "authors": [
@@ -13242,8 +13242,8 @@
       "chorus": null
     },
     {
-      "id": "382",
-      "number": "382",
+      "id": 382,
+      "number": 382,
       "number_display": "382",
       "title": "Minha Oração",
       "authors": [
@@ -13268,8 +13268,8 @@
       "chorus": null
     },
     {
-      "id": "383",
-      "number": "383",
+      "id": 383,
+      "number": 383,
       "number_display": "383",
       "title": "Em Mim Vem Habitar",
       "authors": [
@@ -13301,8 +13301,8 @@
       "chorus": null
     },
     {
-      "id": "384",
-      "number": "384",
+      "id": 384,
+      "number": 384,
       "number_display": "384",
       "title": "O Teu Querer",
       "authors": [
@@ -13339,8 +13339,8 @@
       "chorus": null
     },
     {
-      "id": "385",
-      "number": "385",
+      "id": 385,
+      "number": 385,
       "number_display": "385",
       "title": "Música Celeste",
       "authors": [
@@ -13365,8 +13365,8 @@
       "chorus": null
     },
     {
-      "id": "386",
-      "number": "386",
+      "id": 386,
+      "number": 386,
       "number_display": "386",
       "title": "Abre Meus Olhos",
       "authors": [
@@ -13387,8 +13387,8 @@
       "chorus": null
     },
     {
-      "id": "387",
-      "number": "387",
+      "id": 387,
+      "number": 387,
       "number_display": "387",
       "title": "Jesus, Não Eu",
       "authors": [
@@ -13413,8 +13413,8 @@
       "chorus": null
     },
     {
-      "id": "388",
-      "number": "388",
+      "id": 388,
+      "number": 388,
       "number_display": "388",
       "title": "Sê Minha Vida",
       "authors": [
@@ -13439,8 +13439,8 @@
       "chorus": null
     },
     {
-      "id": "389",
-      "number": "389",
+      "id": 389,
+      "number": 389,
       "number_display": "389",
       "title": "Minha Cruz",
       "authors": [
@@ -13469,8 +13469,8 @@
       "chorus": null
     },
     {
-      "id": "390",
-      "number": "390",
+      "id": 390,
+      "number": 390,
       "number_display": "390",
       "title": "Pegadas",
       "authors": [
@@ -13487,8 +13487,8 @@
       "chorus": null
     },
     {
-      "id": "391",
-      "number": "391",
+      "id": 391,
+      "number": 391,
       "number_display": "391",
       "title": "Queremos Dar Louvor",
       "authors": [
@@ -13513,8 +13513,8 @@
       "chorus": null
     },
     {
-      "id": "392",
-      "number": "392",
+      "id": 392,
+      "number": 392,
       "number_display": "392",
       "title": "Ser Igual a Cristo",
       "authors": [
@@ -13549,8 +13549,8 @@
       "chorus": null
     },
     {
-      "id": "393",
-      "number": "393",
+      "id": 393,
+      "number": 393,
       "number_display": "393",
       "title": "Vem Comigo Habitar",
       "authors": [
@@ -13581,8 +13581,8 @@
       "chorus": null
     },
     {
-      "id": "394",
-      "number": "394",
+      "id": 394,
+      "number": 394,
       "number_display": "394",
       "title": "De Hoje em Diante",
       "authors": [
@@ -13611,8 +13611,8 @@
       "chorus": null
     },
     {
-      "id": "395",
-      "number": "395",
+      "id": 395,
+      "number": 395,
       "number_display": "395",
       "title": "Vem Brilhar",
       "authors": [
@@ -13659,8 +13659,8 @@
       "chorus": null
     },
     {
-      "id": "396",
-      "number": "396",
+      "id": 396,
+      "number": 396,
       "number_display": "396",
       "title": "Vem Brilhar em Mim",
       "authors": [
@@ -13704,8 +13704,8 @@
       "chorus": null
     },
     {
-      "id": "397",
-      "number": "397",
+      "id": 397,
+      "number": 397,
       "number_display": "397",
       "title": "Eu Só Quero Estar Onde Estás",
       "authors": [
@@ -13745,8 +13745,8 @@
       "chorus": null
     },
     {
-      "id": "398",
-      "number": "398",
+      "id": 398,
+      "number": 398,
       "number_display": "398",
       "title": "Pai, Vive em Mim",
       "authors": [
@@ -13787,8 +13787,8 @@
       "chorus": null
     },
     {
-      "id": "399",
-      "number": "399",
+      "id": 399,
+      "number": 399,
       "number_display": "399",
       "title": "O Céu É Jesus",
       "authors": [
@@ -13833,8 +13833,8 @@
       "chorus": null
     },
     {
-      "id": "400",
-      "number": "400",
+      "id": 400,
+      "number": 400,
       "number_display": "400",
       "title": "Mais Semelhante a Jesus",
       "authors": [
@@ -13859,8 +13859,8 @@
       "chorus": null
     },
     {
-      "id": "401",
-      "number": "401",
+      "id": 401,
+      "number": 401,
       "number_display": "401",
       "title": "Quero Ter Jesus",
       "authors": [
@@ -13892,8 +13892,8 @@
       "chorus": null
     },
     {
-      "id": "402",
-      "number": "402",
+      "id": 402,
+      "number": 402,
       "number_display": "402",
       "title": "Perto de Jesus",
       "authors": [
@@ -13936,8 +13936,8 @@
       "chorus": null
     },
     {
-      "id": "403",
-      "number": "403",
+      "id": 403,
+      "number": 403,
       "number_display": "403",
       "title": "Renova-Me",
       "authors": [
@@ -13964,8 +13964,8 @@
       "chorus": null
     },
     {
-      "id": "404",
-      "number": "404",
+      "id": 404,
+      "number": 404,
       "number_display": "404",
       "title": "Sempre de Jesus",
       "authors": [
@@ -13994,8 +13994,8 @@
       "chorus": null
     },
     {
-      "id": "405",
-      "number": "405",
+      "id": 405,
+      "number": 405,
       "number_display": "405",
       "title": "Vem, Ó Senhor",
       "authors": [
@@ -14020,8 +14020,8 @@
       "chorus": null
     },
     {
-      "id": "406",
-      "number": "406",
+      "id": 406,
+      "number": 406,
       "number_display": "406",
       "title": "Pés na Terra, Olhos no Céu",
       "authors": [
@@ -14050,8 +14050,8 @@
       "chorus": null
     },
     {
-      "id": "407",
-      "number": "407",
+      "id": 407,
+      "number": 407,
       "number_display": "407",
       "title": "O Poder do Amor",
       "authors": [
@@ -14090,8 +14090,8 @@
       "chorus": null
     },
     {
-      "id": "408",
-      "number": "408",
+      "id": 408,
+      "number": 408,
       "number_display": "408",
       "title": "Abençoa Este Lar",
       "authors": [
@@ -14119,8 +14119,8 @@
       "chorus": null
     },
     {
-      "id": "409",
-      "number": "409",
+      "id": 409,
+      "number": 409,
       "number_display": "409",
       "title": "Amor no Lar",
       "authors": [
@@ -14157,8 +14157,8 @@
       "chorus": null
     },
     {
-      "id": "410",
-      "number": "410",
+      "id": 410,
+      "number": 410,
       "number_display": "410",
       "title": "Vem Entre Nós Morar",
       "authors": [
@@ -14186,8 +14186,8 @@
       "chorus": null
     },
     {
-      "id": "411",
-      "number": "411",
+      "id": 411,
+      "number": 411,
       "number_display": "411",
       "title": "Bem de Manhã",
       "authors": [
@@ -14215,8 +14215,8 @@
       "chorus": null
     },
     {
-      "id": "412",
-      "number": "412",
+      "id": 412,
+      "number": 412,
       "number_display": "412",
       "title": "Bem Cedinho Sempre Busco",
       "authors": [
@@ -14256,8 +14256,8 @@
       "chorus": null
     },
     {
-      "id": "413",
-      "number": "413",
+      "id": 413,
+      "number": 413,
       "number_display": "413",
       "title": "Vigiar e Orar",
       "authors": [
@@ -14308,8 +14308,8 @@
       "chorus": null
     },
     {
-      "id": "414",
-      "number": "414",
+      "id": 414,
+      "number": 414,
       "number_display": "414",
       "title": "Desponta o Sol",
       "authors": [
@@ -14340,8 +14340,8 @@
       "chorus": null
     },
     {
-      "id": "415",
-      "number": "415",
+      "id": 415,
+      "number": 415,
       "number_display": "415",
       "title": "Luzes da Aurora",
       "authors": [
@@ -14372,8 +14372,8 @@
       "chorus": null
     },
     {
-      "id": "416",
-      "number": "416",
+      "id": 416,
+      "number": 416,
       "number_display": "416",
       "title": "Surge a Alvorada",
       "authors": [
@@ -14401,8 +14401,8 @@
       "chorus": null
     },
     {
-      "id": "417",
-      "number": "417",
+      "id": 417,
+      "number": 417,
       "number_display": "417",
       "title": "Perto do Lar",
       "authors": [
@@ -14445,8 +14445,8 @@
       "chorus": null
     },
     {
-      "id": "418",
-      "number": "418",
+      "id": 418,
+      "number": 418,
       "number_display": "418",
       "title": "Finda o Dia",
       "authors": [
@@ -14486,8 +14486,8 @@
       "chorus": null
     },
     {
-      "id": "419",
-      "number": "419",
+      "id": 419,
+      "number": 419,
       "number_display": "419",
       "title": "Prece Vespertina",
       "authors": [
@@ -14512,8 +14512,8 @@
       "chorus": null
     },
     {
-      "id": "420",
-      "number": "420",
+      "id": 420,
+      "number": 420,
       "number_display": "420",
       "title": "Hora Feliz do Pôr do Sol",
       "authors": [
@@ -14544,8 +14544,8 @@
       "chorus": null
     },
     {
-      "id": "421",
-      "number": "421",
+      "id": 421,
+      "number": 421,
       "number_display": "421",
       "title": "Oração para uma Criança",
       "authors": [
@@ -14569,8 +14569,8 @@
       "chorus": null
     },
     {
-      "id": "422",
-      "number": "422",
+      "id": 422,
+      "number": 422,
       "number_display": "422",
       "title": "Presente de Valor",
       "authors": [
@@ -14598,8 +14598,8 @@
       "chorus": null
     },
     {
-      "id": "423",
-      "number": "423",
+      "id": 423,
+      "number": 423,
       "number_display": "423",
       "title": "Não os Impeçais",
       "authors": [
@@ -14628,8 +14628,8 @@
       "chorus": null
     },
     {
-      "id": "424",
-      "number": "424",
+      "id": 424,
+      "number": 424,
       "number_display": "424",
       "title": "Canção para Meu Bebê",
       "authors": [
@@ -14662,8 +14662,8 @@
       "chorus": null
     },
     {
-      "id": "425",
-      "number": "425",
+      "id": 425,
+      "number": 425,
       "number_display": "425",
       "title": "Ouço o Clamor do Bom Pastor",
       "authors": [
@@ -14706,8 +14706,8 @@
       "chorus": null
     },
     {
-      "id": "426",
-      "number": "426",
+      "id": 426,
+      "number": 426,
       "number_display": "426",
       "title": "Cristo Ama as Criancinhas",
       "authors": [
@@ -14750,8 +14750,8 @@
       "chorus": null
     },
     {
-      "id": "427",
-      "number": "427",
+      "id": 427,
+      "number": 427,
       "number_display": "427",
       "title": "Venham, Crianças",
       "authors": [
@@ -14788,8 +14788,8 @@
       "chorus": null
     },
     {
-      "id": "428",
-      "number": "428",
+      "id": 428,
+      "number": 428,
       "number_display": "428",
       "title": "Joias Preciosas",
       "authors": [
@@ -14832,8 +14832,8 @@
       "chorus": null
     },
     {
-      "id": "429",
-      "number": "429",
+      "id": 429,
+      "number": 429,
       "number_display": "429",
       "title": "Quando o Livro Aberto For",
       "authors": [
@@ -14873,8 +14873,8 @@
       "chorus": null
     },
     {
-      "id": "430",
-      "number": "430",
+      "id": 430,
+      "number": 430,
       "number_display": "430",
       "title": "O Juízo",
       "authors": [
@@ -14911,8 +14911,8 @@
       "chorus": null
     },
     {
-      "id": "431",
-      "number": "431",
+      "id": 431,
+      "number": 431,
       "number_display": "431",
       "title": "Vem o Grande Dia",
       "authors": [
@@ -14949,8 +14949,8 @@
       "chorus": null
     },
     {
-      "id": "432",
-      "number": "432",
+      "id": 432,
+      "number": 432,
       "number_display": "432",
       "title": "Sangue Precioso de Cristo",
       "authors": [
@@ -14979,8 +14979,8 @@
       "chorus": null
     },
     {
-      "id": "433",
-      "number": "433",
+      "id": 433,
+      "number": 433,
       "number_display": "433",
       "title": "Sumo-Sacerdote",
       "authors": [
@@ -15005,8 +15005,8 @@
       "chorus": null
     },
     {
-      "id": "434",
-      "number": "434",
+      "id": 434,
+      "number": 434,
       "number_display": "434",
       "title": "Santuário",
       "authors": [
@@ -15031,8 +15031,8 @@
       "chorus": null
     },
     {
-      "id": "435",
-      "number": "435",
+      "id": 435,
+      "number": 435,
       "number_display": "435",
       "title": "Acima do Céu",
       "authors": [
@@ -15065,8 +15065,8 @@
       "chorus": null
     },
     {
-      "id": "436",
-      "number": "436",
+      "id": 436,
+      "number": 436,
       "number_display": "436",
       "title": "E Me Fareis um Santuário",
       "authors": [
@@ -15098,8 +15098,8 @@
       "chorus": null
     },
     {
-      "id": "437",
-      "number": "437",
+      "id": 437,
+      "number": 437,
       "number_display": "437",
       "title": "Chegou a Hora",
       "authors": [
@@ -15132,8 +15132,8 @@
       "chorus": null
     },
     {
-      "id": "438",
-      "number": "438",
+      "id": 438,
+      "number": 438,
       "number_display": "438",
       "title": "Quando For Chamado",
       "authors": [
@@ -15162,8 +15162,8 @@
       "chorus": null
     },
     {
-      "id": "439",
-      "number": "439",
+      "id": 439,
+      "number": 439,
       "number_display": "439",
       "title": "Quando Deus Fizer Chamada",
       "authors": [
@@ -15192,8 +15192,8 @@
       "chorus": null
     },
     {
-      "id": "440",
-      "number": "440",
+      "id": 440,
+      "number": 440,
       "number_display": "440",
       "title": "Breve Jesus Voltará",
       "authors": [
@@ -15226,8 +15226,8 @@
       "chorus": null
     },
     {
-      "id": "441",
-      "number": "441",
+      "id": 441,
+      "number": 441,
       "number_display": "441",
       "title": "Vencendo Vem Jesus",
       "authors": [
@@ -15264,8 +15264,8 @@
       "chorus": null
     },
     {
-      "id": "442",
-      "number": "442",
+      "id": 442,
+      "number": 442,
       "number_display": "442",
       "title": "Jesus Voltará",
       "authors": [
@@ -15286,8 +15286,8 @@
       "chorus": null
     },
     {
-      "id": "443",
-      "number": "443",
+      "id": 443,
+      "number": 443,
       "number_display": "443",
       "title": "Cristo Virá Outra Vez",
       "authors": [
@@ -15316,8 +15316,8 @@
       "chorus": null
     },
     {
-      "id": "444",
-      "number": "444",
+      "id": 444,
+      "number": 444,
       "number_display": "444",
       "title": "Oh! Que Esperança!",
       "authors": [
@@ -15341,8 +15341,8 @@
       "chorus": null
     },
     {
-      "id": "445",
-      "number": "445",
+      "id": 445,
+      "number": 445,
       "number_display": "445",
       "title": "O Rei Já Perto Está",
       "authors": [
@@ -15371,8 +15371,8 @@
       "chorus": null
     },
     {
-      "id": "446",
-      "number": "446",
+      "id": 446,
+      "number": 446,
       "number_display": "446",
       "title": "Cristo Vem",
       "authors": [
@@ -15397,8 +15397,8 @@
       "chorus": null
     },
     {
-      "id": "447",
-      "number": "447",
+      "id": 447,
+      "number": 447,
       "number_display": "447",
       "title": "Vigiai, Cristãos",
       "authors": [],
@@ -15427,8 +15427,8 @@
       "chorus": null
     },
     {
-      "id": "448",
-      "number": "448",
+      "id": 448,
+      "number": 448,
       "number_display": "448",
       "title": "Nós o Veremos",
       "authors": [
@@ -15453,8 +15453,8 @@
       "chorus": null
     },
     {
-      "id": "449",
-      "number": "449",
+      "id": 449,
+      "number": 449,
       "number_display": "449",
       "title": "Quando o Rei Vier",
       "authors": [
@@ -15487,8 +15487,8 @@
       "chorus": null
     },
     {
-      "id": "450",
-      "number": "450",
+      "id": 450,
+      "number": 450,
       "number_display": "450",
       "title": "Guarda, Vê Se Muito Falta",
       "authors": [
@@ -15513,8 +15513,8 @@
       "chorus": null
     },
     {
-      "id": "451",
-      "number": "451",
+      "id": 451,
+      "number": 451,
       "number_display": "451",
       "title": "Grande Alegria",
       "authors": [
@@ -15543,8 +15543,8 @@
       "chorus": null
     },
     {
-      "id": "452",
-      "number": "452",
+      "id": 452,
+      "number": 452,
       "number_display": "452",
       "title": "Cristo Não Tarda Voltar",
       "authors": [
@@ -15573,8 +15573,8 @@
       "chorus": null
     },
     {
-      "id": "453",
-      "number": "453",
+      "id": 453,
+      "number": 453,
       "number_display": "453",
       "title": "Anunciai pelas Montanhas",
       "authors": [
@@ -15606,8 +15606,8 @@
       "chorus": null
     },
     {
-      "id": "454",
-      "number": "454",
+      "id": 454,
+      "number": 454,
       "number_display": "454",
       "title": "A Manhã Gloriosa",
       "authors": [],
@@ -15620,8 +15620,8 @@
       "chorus": null
     },
     {
-      "id": "455",
-      "number": "455",
+      "id": 455,
+      "number": 455,
       "number_display": "455",
       "title": "Verei Jesus",
       "authors": [
@@ -15658,8 +15658,8 @@
       "chorus": null
     },
     {
-      "id": "456",
-      "number": "456",
+      "id": 456,
+      "number": 456,
       "number_display": "456",
       "title": "Bela Manhã",
       "authors": [
@@ -15680,8 +15680,8 @@
       "chorus": null
     },
     {
-      "id": "457",
-      "number": "457",
+      "id": 457,
+      "number": 457,
       "number_display": "457",
       "title": "Jesus Vem Logo",
       "authors": [
@@ -15710,8 +15710,8 @@
       "chorus": null
     },
     {
-      "id": "458",
-      "number": "458",
+      "id": 458,
+      "number": 458,
       "number_display": "458",
       "title": "Não Tardará",
       "authors": [
@@ -15740,8 +15740,8 @@
       "chorus": null
     },
     {
-      "id": "459",
-      "number": "459",
+      "id": 459,
+      "number": 459,
       "number_display": "459",
       "title": "Cada Dia Mais Perto",
       "authors": [
@@ -15769,8 +15769,8 @@
       "chorus": null
     },
     {
-      "id": "460",
-      "number": "460",
+      "id": 460,
+      "number": 460,
       "number_display": "460",
       "title": "Decidi Olhar pra o Amanhã",
       "authors": [
@@ -15802,8 +15802,8 @@
       "chorus": null
     },
     {
-      "id": "461",
-      "number": "461",
+      "id": 461,
+      "number": 461,
       "number_display": "461",
       "title": "Jesus Precisa Voltar",
       "authors": [
@@ -15836,8 +15836,8 @@
       "chorus": null
     },
     {
-      "id": "462",
-      "number": "462",
+      "id": 462,
+      "number": 462,
       "number_display": "462",
       "title": "Será de Manhã?",
       "authors": [
@@ -15869,8 +15869,8 @@
       "chorus": null
     },
     {
-      "id": "463",
-      "number": "463",
+      "id": 463,
+      "number": 463,
       "number_display": "463",
       "title": "Espero a Manhã Radiosa",
       "authors": [
@@ -15906,8 +15906,8 @@
       "chorus": null
     },
     {
-      "id": "464",
-      "number": "464",
+      "id": 464,
+      "number": 464,
       "number_display": "464",
       "title": "Não Desistir",
       "authors": [
@@ -15932,8 +15932,8 @@
       "chorus": null
     },
     {
-      "id": "465",
-      "number": "465",
+      "id": 465,
+      "number": 465,
       "number_display": "465",
       "title": "O Dia Não Sei",
       "authors": [
@@ -15962,8 +15962,8 @@
       "chorus": null
     },
     {
-      "id": "466",
-      "number": "466",
+      "id": 466,
+      "number": 466,
       "number_display": "466",
       "title": "Um Pouco Mais",
       "authors": [
@@ -15991,8 +15991,8 @@
       "chorus": null
     },
     {
-      "id": "467",
-      "number": "467",
+      "id": 467,
+      "number": 467,
       "number_display": "467",
       "title": "Até Quando?",
       "authors": [
@@ -16013,8 +16013,8 @@
       "chorus": null
     },
     {
-      "id": "468",
-      "number": "468",
+      "id": 468,
+      "number": 468,
       "number_display": "468",
       "title": "Quase no Lar",
       "authors": [
@@ -16047,8 +16047,8 @@
       "chorus": null
     },
     {
-      "id": "469",
-      "number": "469",
+      "id": 469,
+      "number": 469,
       "number_display": "469",
       "title": "Enquanto Ele Não Vem",
       "authors": [
@@ -16073,8 +16073,8 @@
       "chorus": null
     },
     {
-      "id": "470",
-      "number": "470",
+      "id": 470,
+      "number": 470,
       "number_display": "470",
       "title": "Rocha Eterna",
       "authors": [
@@ -16105,8 +16105,8 @@
       "chorus": null
     },
     {
-      "id": "471",
-      "number": "471",
+      "id": 471,
+      "number": 471,
       "number_display": "471",
       "title": "Porque Ele Vive",
       "authors": [
@@ -16146,8 +16146,8 @@
       "chorus": null
     },
     {
-      "id": "472",
-      "number": "472",
+      "id": 472,
+      "number": 472,
       "number_display": "472",
       "title": "Ó Alegrai-Vos, Filhos de Sião",
       "authors": [
@@ -16190,8 +16190,8 @@
       "chorus": null
     },
     {
-      "id": "473",
-      "number": "473",
+      "id": 473,
+      "number": 473,
       "number_display": "473",
       "title": "Morte e Ressurreição",
       "authors": [
@@ -16219,8 +16219,8 @@
       "chorus": null
     },
     {
-      "id": "474",
-      "number": "474",
+      "id": 474,
+      "number": 474,
       "number_display": "474",
       "title": "Eu Espero",
       "authors": [
@@ -16245,8 +16245,8 @@
       "chorus": null
     },
     {
-      "id": "475",
-      "number": "475",
+      "id": 475,
+      "number": 475,
       "number_display": "475",
       "title": "Se Não Houver Amanhã",
       "authors": [
@@ -16271,8 +16271,8 @@
       "chorus": null
     },
     {
-      "id": "476",
-      "number": "476",
+      "id": 476,
+      "number": 476,
       "number_display": "476",
       "title": "Hei de Ver",
       "authors": [
@@ -16301,8 +16301,8 @@
       "chorus": null
     },
     {
-      "id": "477",
-      "number": "477",
+      "id": 477,
+      "number": 477,
       "number_display": "477",
       "title": "Face a Face",
       "authors": [
@@ -16338,8 +16338,8 @@
       "chorus": null
     },
     {
-      "id": "478",
-      "number": "478",
+      "id": 478,
+      "number": 478,
       "number_display": "478",
       "title": "Sim, Glória Haverá no Final",
       "authors": [
@@ -16368,8 +16368,8 @@
       "chorus": null
     },
     {
-      "id": "479",
-      "number": "479",
+      "id": 479,
+      "number": 479,
       "number_display": "479",
       "title": "Herdeiro do Reino",
       "authors": [
@@ -16401,8 +16401,8 @@
       "chorus": null
     },
     {
-      "id": "480",
-      "number": "480",
+      "id": 480,
+      "number": 480,
       "number_display": "480",
       "title": "O Eterno Lar",
       "authors": [
@@ -16431,8 +16431,8 @@
       "chorus": null
     },
     {
-      "id": "481",
-      "number": "481",
+      "id": 481,
+      "number": 481,
       "number_display": "481",
       "title": "No Celeste Lar Glorioso",
       "authors": [
@@ -16461,8 +16461,8 @@
       "chorus": null
     },
     {
-      "id": "482",
-      "number": "482",
+      "id": 482,
+      "number": 482,
       "number_display": "482",
       "title": "Junto ao Rio Jordão",
       "authors": [
@@ -16494,8 +16494,8 @@
       "chorus": null
     },
     {
-      "id": "483",
-      "number": "483",
+      "id": 483,
+      "number": 483,
       "number_display": "483",
       "title": "Vamos Ver Jesus Ali",
       "authors": [
@@ -16524,8 +16524,8 @@
       "chorus": null
     },
     {
-      "id": "484",
-      "number": "484",
+      "id": 484,
+      "number": 484,
       "number_display": "484",
       "title": "Além do Céu Azul",
       "authors": [
@@ -16546,8 +16546,8 @@
       "chorus": null
     },
     {
-      "id": "485",
-      "number": "485",
+      "id": 485,
+      "number": 485,
       "number_display": "485",
       "title": "Estrelas Terei",
       "authors": [
@@ -16579,8 +16579,8 @@
       "chorus": null
     },
     {
-      "id": "486",
-      "number": "486",
+      "id": 486,
+      "number": 486,
       "number_display": "486",
       "title": "Até Então",
       "authors": [
@@ -16605,8 +16605,8 @@
       "chorus": null
     },
     {
-      "id": "487",
-      "number": "487",
+      "id": 487,
+      "number": 487,
       "number_display": "487",
       "title": "Primeiro Quero Ver Meu Salvador",
       "authors": [
@@ -16638,8 +16638,8 @@
       "chorus": null
     },
     {
-      "id": "488",
-      "number": "488",
+      "id": 488,
+      "number": 488,
       "number_display": "488",
       "title": "Eu Vou para o Céu",
       "authors": [
@@ -16672,8 +16672,8 @@
       "chorus": null
     },
     {
-      "id": "489",
-      "number": "489",
+      "id": 489,
+      "number": 489,
       "number_display": "489",
       "title": "Cristo Foi Preparar um Lugar",
       "authors": [
@@ -16701,8 +16701,8 @@
       "chorus": null
     },
     {
-      "id": "490",
-      "number": "490",
+      "id": 490,
+      "number": 490,
       "number_display": "490",
       "title": "Tão Grato Me É Lembrar",
       "authors": [
@@ -16734,8 +16734,8 @@
       "chorus": null
     },
     {
-      "id": "491",
-      "number": "491",
+      "id": 491,
+      "number": 491,
       "number_display": "491",
       "title": "Há um Rio Cristalino",
       "authors": [
@@ -16772,8 +16772,8 @@
       "chorus": null
     },
     {
-      "id": "492",
-      "number": "492",
+      "id": 492,
+      "number": 492,
       "number_display": "492",
       "title": "Lar Feliz",
       "authors": [
@@ -16801,8 +16801,8 @@
       "chorus": null
     },
     {
-      "id": "493",
-      "number": "493",
+      "id": 493,
+      "number": 493,
       "number_display": "493",
       "title": "Almejo o Lar",
       "authors": [
@@ -16845,8 +16845,8 @@
       "chorus": null
     },
     {
-      "id": "494",
-      "number": "494",
+      "id": 494,
+      "number": 494,
       "number_display": "494",
       "title": "Doce Lar",
       "authors": [
@@ -16883,8 +16883,8 @@
       "chorus": null
     },
     {
-      "id": "495",
-      "number": "495",
+      "id": 495,
+      "number": 495,
       "number_display": "495",
       "title": "Glória Perene",
       "authors": [
@@ -16921,8 +16921,8 @@
       "chorus": null
     },
     {
-      "id": "496",
-      "number": "496",
+      "id": 496,
+      "number": 496,
       "number_display": "496",
       "title": "Além do Rio",
       "authors": [
@@ -16947,8 +16947,8 @@
       "chorus": null
     },
     {
-      "id": "497",
-      "number": "497",
+      "id": 497,
+      "number": 497,
       "number_display": "497",
       "title": "Inda É Longe Canaã?",
       "authors": [
@@ -16985,8 +16985,8 @@
       "chorus": null
     },
     {
-      "id": "498",
-      "number": "498",
+      "id": 498,
+      "number": 498,
       "number_display": "498",
       "title": "Lindo País",
       "authors": [
@@ -17007,8 +17007,8 @@
       "chorus": null
     },
     {
-      "id": "499",
-      "number": "499",
+      "id": 499,
+      "number": 499,
       "number_display": "499",
       "title": "Mansão Sobre o Monte",
       "authors": [
@@ -17040,8 +17040,8 @@
       "chorus": null
     },
     {
-      "id": "500",
-      "number": "500",
+      "id": 500,
+      "number": 500,
       "number_display": "500",
       "title": "Oh! Nunca Separar",
       "authors": [
@@ -17081,8 +17081,8 @@
       "chorus": null
     },
     {
-      "id": "501",
-      "number": "501",
+      "id": 501,
+      "number": 501,
       "number_display": "501",
       "title": "Para Além das Montanhas",
       "authors": [
@@ -17130,8 +17130,8 @@
       "chorus": null
     },
     {
-      "id": "502",
-      "number": "502",
+      "id": 502,
+      "number": 502,
       "number_display": "502",
       "title": "Saudade",
       "authors": [
@@ -17162,8 +17162,8 @@
       "chorus": null
     },
     {
-      "id": "503",
-      "number": "503",
+      "id": 503,
+      "number": 503,
       "number_display": "503",
       "title": "Vale do Éden, Formoso",
       "authors": [
@@ -17195,8 +17195,8 @@
       "chorus": null
     },
     {
-      "id": "504",
-      "number": "504",
+      "id": 504,
+      "number": 504,
       "number_display": "504",
       "title": "Mais Perto Deste Lar",
       "authors": [
@@ -17221,8 +17221,8 @@
       "chorus": null
     },
     {
-      "id": "505",
-      "number": "505",
+      "id": 505,
+      "number": 505,
       "number_display": "505",
       "title": "Muito Além do Sol",
       "authors": [
@@ -17254,8 +17254,8 @@
       "chorus": null
     },
     {
-      "id": "506",
-      "number": "506",
+      "id": 506,
+      "number": 506,
       "number_display": "506",
       "title": "Eu Não Preciso Mais Sonhar",
       "authors": [
@@ -17287,8 +17287,8 @@
       "chorus": null
     },
     {
-      "id": "507",
-      "number": "507",
+      "id": 507,
+      "number": 507,
       "number_display": "507",
       "title": "Jamais Se Diz Adeus Ali",
       "authors": [
@@ -17320,8 +17320,8 @@
       "chorus": null
     },
     {
-      "id": "508",
-      "number": "508",
+      "id": 508,
+      "number": 508,
       "number_display": "508",
       "title": "Cristo Fez Tudo Muito Bom",
       "authors": [
@@ -17350,8 +17350,8 @@
       "chorus": null
     },
     {
-      "id": "509",
-      "number": "509",
+      "id": 509,
+      "number": 509,
       "number_display": "509",
       "title": "A Criação",
       "authors": [
@@ -17380,8 +17380,8 @@
       "chorus": null
     },
     {
-      "id": "510",
-      "number": "510",
+      "id": 510,
+      "number": 510,
       "number_display": "510",
       "title": "Aquarela do Senhor",
       "authors": [
@@ -17410,8 +17410,8 @@
       "chorus": null
     },
     {
-      "id": "511",
-      "number": "511",
+      "id": 511,
+      "number": 511,
       "number_display": "511",
       "title": "Eu Sou uma Obra de Arte",
       "authors": [
@@ -17436,8 +17436,8 @@
       "chorus": null
     },
     {
-      "id": "512",
-      "number": "512",
+      "id": 512,
+      "number": 512,
       "number_display": "512",
       "title": "Cada Dia",
       "authors": [
@@ -17465,8 +17465,8 @@
       "chorus": null
     },
     {
-      "id": "513",
-      "number": "513",
+      "id": 513,
+      "number": 513,
       "number_display": "513",
       "title": "Ver Jesus em Você",
       "authors": [
@@ -17498,8 +17498,8 @@
       "chorus": null
     },
     {
-      "id": "514",
-      "number": "514",
+      "id": 514,
+      "number": 514,
       "number_display": "514",
       "title": "Fruto da Criação",
       "authors": [
@@ -17528,8 +17528,8 @@
       "chorus": null
     },
     {
-      "id": "515",
-      "number": "515",
+      "id": 515,
+      "number": 515,
       "number_display": "515",
       "title": "Sabe Quantas Estrelinhas?",
       "authors": [
@@ -17569,8 +17569,8 @@
       "chorus": null
     },
     {
-      "id": "516",
-      "number": "516",
+      "id": 516,
+      "number": 516,
       "number_display": "516",
       "title": "Grande Artista",
       "authors": [
@@ -17594,8 +17594,8 @@
       "chorus": null
     },
     {
-      "id": "517",
-      "number": "517",
+      "id": 517,
+      "number": 517,
       "number_display": "517",
       "title": "Meu Deus É Tão Grande",
       "authors": [],
@@ -17612,8 +17612,8 @@
       "chorus": null
     },
     {
-      "id": "518",
-      "number": "518",
+      "id": 518,
+      "number": 518,
       "number_display": "518",
       "title": "O Dia em Que Deus Criou o Mundo",
       "authors": [
@@ -17642,8 +17642,8 @@
       "chorus": null
     },
     {
-      "id": "519",
-      "number": "519",
+      "id": 519,
+      "number": 519,
       "number_display": "519",
       "title": "O Amigo do Coração",
       "authors": [
@@ -17664,8 +17664,8 @@
       "chorus": null
     },
     {
-      "id": "520",
-      "number": "520",
+      "id": 520,
+      "number": 520,
       "number_display": "520",
       "title": "Cristo É o Número Um",
       "authors": [
@@ -17686,8 +17686,8 @@
       "chorus": null
     },
     {
-      "id": "521",
-      "number": "521",
+      "id": 521,
+      "number": 521,
       "number_display": "521",
       "title": "O Espírito Santo",
       "authors": [
@@ -17704,8 +17704,8 @@
       "chorus": null
     },
     {
-      "id": "522",
-      "number": "522",
+      "id": 522,
+      "number": 522,
       "number_display": "522",
       "title": "Eu Quero Esse Poder",
       "authors": [
@@ -17738,8 +17738,8 @@
       "chorus": null
     },
     {
-      "id": "523",
-      "number": "523",
+      "id": 523,
+      "number": 523,
       "number_display": "523",
       "title": "Sim, Cristo Me Ama",
       "authors": [
@@ -17774,8 +17774,8 @@
       "chorus": null
     },
     {
-      "id": "524",
-      "number": "524",
+      "id": 524,
+      "number": 524,
       "number_display": "524",
       "title": "Jesus Me Quer Bem",
       "authors": [
@@ -17804,8 +17804,8 @@
       "chorus": null
     },
     {
-      "id": "525",
-      "number": "525",
+      "id": 525,
+      "number": 525,
       "number_display": "525",
       "title": "Deus Sempre Me Ama",
       "authors": [
@@ -17838,8 +17838,8 @@
       "chorus": null
     },
     {
-      "id": "526",
-      "number": "526",
+      "id": 526,
+      "number": 526,
       "number_display": "526",
       "title": "Quem Orou Três Vezes?",
       "authors": [
@@ -17863,8 +17863,8 @@
       "chorus": null
     },
     {
-      "id": "527",
-      "number": "527",
+      "id": 527,
+      "number": 527,
       "number_display": "527",
       "title": "Aonde Quer Que Eu Vá",
       "authors": [
@@ -17901,8 +17901,8 @@
       "chorus": null
     },
     {
-      "id": "528",
-      "number": "528",
+      "id": 528,
+      "number": 528,
       "number_display": "528",
       "title": "Quando Estou Com Medo",
       "authors": [
@@ -17923,8 +17923,8 @@
       "chorus": null
     },
     {
-      "id": "529",
-      "number": "529",
+      "id": 529,
+      "number": 529,
       "number_display": "529",
       "title": "Se Deus É por Nós",
       "authors": [
@@ -17953,8 +17953,8 @@
       "chorus": null
     },
     {
-      "id": "530",
-      "number": "530",
+      "id": 530,
+      "number": 530,
       "number_display": "530",
       "title": "Lâmpada para os Meus Pés",
       "authors": [
@@ -17975,8 +17975,8 @@
       "chorus": null
     },
     {
-      "id": "531",
-      "number": "531",
+      "id": 531,
+      "number": 531,
       "number_display": "531",
       "title": "A Bíblia",
       "authors": [
@@ -17997,8 +17997,8 @@
       "chorus": null
     },
     {
-      "id": "532",
-      "number": "532",
+      "id": 532,
+      "number": 532,
       "number_display": "532",
       "title": "Louvem a Jesus",
       "authors": [
@@ -18023,8 +18023,8 @@
       "chorus": null
     },
     {
-      "id": "533",
-      "number": "533",
+      "id": 533,
+      "number": 533,
       "number_display": "533",
       "title": "Louvai-O",
       "authors": [
@@ -18059,8 +18059,8 @@
       "chorus": null
     },
     {
-      "id": "534",
-      "number": "534",
+      "id": 534,
+      "number": 534,
       "number_display": "534",
       "title": "Eu Digo Não",
       "authors": [
@@ -18081,8 +18081,8 @@
       "chorus": null
     },
     {
-      "id": "535",
-      "number": "535",
+      "id": 535,
+      "number": 535,
       "number_display": "535",
       "title": "Santa Lei de Deus",
       "authors": [
@@ -18110,8 +18110,8 @@
       "chorus": null
     },
     {
-      "id": "536",
-      "number": "536",
+      "id": 536,
+      "number": 536,
       "number_display": "536",
       "title": "São Dez os Mandamentos",
       "authors": [
@@ -18136,8 +18136,8 @@
       "chorus": null
     },
     {
-      "id": "537",
-      "number": "537",
+      "id": 537,
+      "number": 537,
       "number_display": "537",
       "title": "Sábado, o Dia Mais Feliz",
       "authors": [
@@ -18162,8 +18162,8 @@
       "chorus": null
     },
     {
-      "id": "538",
-      "number": "538",
+      "id": 538,
+      "number": 538,
       "number_display": "538",
       "title": "Dia Especial",
       "authors": [
@@ -18184,8 +18184,8 @@
       "chorus": null
     },
     {
-      "id": "539",
-      "number": "539",
+      "id": 539,
+      "number": 539,
       "number_display": "539",
       "title": "Deus Mandou o Sol Brilhar",
       "authors": [
@@ -18217,8 +18217,8 @@
       "chorus": null
     },
     {
-      "id": "540",
-      "number": "540",
+      "id": 540,
+      "number": 540,
       "number_display": "540",
       "title": "Quero Bem Alegre Obedecer",
       "authors": [
@@ -18251,8 +18251,8 @@
       "chorus": null
     },
     {
-      "id": "541",
-      "number": "541",
+      "id": 541,
+      "number": 541,
       "number_display": "541",
       "title": "Cria em Mim, Ó Deus",
       "authors": [
@@ -18269,8 +18269,8 @@
       "chorus": null
     },
     {
-      "id": "542",
-      "number": "542",
+      "id": 542,
+      "number": 542,
       "number_display": "542",
       "title": "Vem, Ó Jesus",
       "authors": [
@@ -18287,8 +18287,8 @@
       "chorus": null
     },
     {
-      "id": "543",
-      "number": "543",
+      "id": 543,
+      "number": 543,
       "number_display": "543",
       "title": "É Bom Ter Jesus no Coração",
       "authors": [],
@@ -18305,8 +18305,8 @@
       "chorus": null
     },
     {
-      "id": "544",
-      "number": "544",
+      "id": 544,
+      "number": 544,
       "number_display": "544",
       "title": "Entrega Teu Caminho ao Senhor",
       "authors": [
@@ -18327,8 +18327,8 @@
       "chorus": null
     },
     {
-      "id": "545",
-      "number": "545",
+      "id": 545,
+      "number": 545,
       "number_display": "545",
       "title": "Sou Feliz",
       "authors": [
@@ -18353,8 +18353,8 @@
       "chorus": null
     },
     {
-      "id": "546",
-      "number": "546",
+      "id": 546,
+      "number": 546,
       "number_display": "546",
       "title": "Quero Servir a Jesus",
       "authors": [
@@ -18379,8 +18379,8 @@
       "chorus": null
     },
     {
-      "id": "547",
-      "number": "547",
+      "id": 547,
+      "number": 547,
       "number_display": "547",
       "title": "Eu Sei Porque Nasci",
       "authors": [
@@ -18401,8 +18401,8 @@
       "chorus": null
     },
     {
-      "id": "548",
-      "number": "548",
+      "id": 548,
+      "number": 548,
       "number_display": "548",
       "title": "O Milagre da Vida",
       "authors": [
@@ -18427,8 +18427,8 @@
       "chorus": null
     },
     {
-      "id": "549",
-      "number": "549",
+      "id": 549,
+      "number": 549,
       "number_display": "549",
       "title": "Eu Sou Importante",
       "authors": [
@@ -18449,8 +18449,8 @@
       "chorus": null
     },
     {
-      "id": "550",
-      "number": "550",
+      "id": 550,
+      "number": 550,
       "number_display": "550",
       "title": "Deus Tem um Plano pra Mim",
       "authors": [
@@ -18471,8 +18471,8 @@
       "chorus": null
     },
     {
-      "id": "551",
-      "number": "551",
+      "id": 551,
+      "number": 551,
       "number_display": "551",
       "title": "Minha Pequenina Luz",
       "authors": [
@@ -18500,8 +18500,8 @@
       "chorus": null
     },
     {
-      "id": "552",
-      "number": "552",
+      "id": 552,
+      "number": 552,
       "number_display": "552",
       "title": "Meus Talentos Vou Usar",
       "authors": [
@@ -18530,8 +18530,8 @@
       "chorus": null
     },
     {
-      "id": "553",
-      "number": "553",
+      "id": 553,
+      "number": 553,
       "number_display": "553",
       "title": "Minha Vida É uma Viagem",
       "authors": [
@@ -18560,8 +18560,8 @@
       "chorus": null
     },
     {
-      "id": "554",
-      "number": "554",
+      "id": 554,
+      "number": 554,
       "number_display": "554",
       "title": "Sou Aventureiro",
       "authors": [
@@ -18586,8 +18586,8 @@
       "chorus": null
     },
     {
-      "id": "555",
-      "number": "555",
+      "id": 555,
+      "number": 555,
       "number_display": "555",
       "title": "Um Lugar Feliz É o Céu",
       "authors": [
@@ -18619,8 +18619,8 @@
       "chorus": null
     },
     {
-      "id": "556",
-      "number": "556",
+      "id": 556,
+      "number": 556,
       "number_display": "556",
       "title": "Lá no Céu",
       "authors": [
@@ -18641,8 +18641,8 @@
       "chorus": null
     },
     {
-      "id": "557",
-      "number": "557",
+      "id": 557,
+      "number": 557,
       "number_display": "557",
       "title": "O Céu",
       "authors": [
@@ -18671,8 +18671,8 @@
       "chorus": null
     },
     {
-      "id": "558",
-      "number": "558",
+      "id": 558,
+      "number": 558,
       "number_display": "558",
       "title": "O Senhor Está em Seu Templo",
       "authors": [],
@@ -18693,8 +18693,8 @@
       "chorus": null
     },
     {
-      "id": "559",
-      "number": "559",
+      "id": 559,
+      "number": 559,
       "number_display": "559",
       "title": "Sinto a Presença do Senhor",
       "authors": [
@@ -18711,8 +18711,8 @@
       "chorus": null
     },
     {
-      "id": "560",
-      "number": "560",
+      "id": 560,
+      "number": 560,
       "number_display": "560",
       "title": "A Glória da Tua Presença",
       "authors": [
@@ -18732,8 +18732,8 @@
       "chorus": null
     },
     {
-      "id": "561",
-      "number": "561",
+      "id": 561,
+      "number": 561,
       "number_display": "561",
       "title": "Santo Somente É o Senhor",
       "authors": [
@@ -18758,8 +18758,8 @@
       "chorus": null
     },
     {
-      "id": "562",
-      "number": "562",
+      "id": 562,
+      "number": 562,
       "number_display": "562",
       "title": "Santo És, Senhor",
       "authors": [
@@ -18780,8 +18780,8 @@
       "chorus": null
     },
     {
-      "id": "563",
-      "number": "563",
+      "id": 563,
+      "number": 563,
       "number_display": "563",
       "title": "Sua Glória",
       "authors": [
@@ -18810,8 +18810,8 @@
       "chorus": null
     },
     {
-      "id": "564",
-      "number": "564",
+      "id": 564,
+      "number": 564,
       "number_display": "564",
       "title": "Vamos Adorar",
       "authors": [
@@ -18832,8 +18832,8 @@
       "chorus": null
     },
     {
-      "id": "565",
-      "number": "565",
+      "id": 565,
+      "number": 565,
       "number_display": "565",
       "title": "Adoração",
       "authors": [
@@ -18853,8 +18853,8 @@
       "chorus": null
     },
     {
-      "id": "566",
-      "number": "566",
+      "id": 566,
+      "number": 566,
       "number_display": "566",
       "title": "Oh! Adorai",
       "authors": [
@@ -18871,8 +18871,8 @@
       "chorus": null
     },
     {
-      "id": "567",
-      "number": "567",
+      "id": 567,
+      "number": 567,
       "number_display": "567",
       "title": "Intróito",
       "authors": [
@@ -18904,8 +18904,8 @@
       "chorus": null
     },
     {
-      "id": "568",
-      "number": "568",
+      "id": 568,
+      "number": 568,
       "number_display": "568",
       "title": "Invocação",
       "authors": [
@@ -18926,8 +18926,8 @@
       "chorus": null
     },
     {
-      "id": "569",
-      "number": "569",
+      "id": 569,
+      "number": 569,
       "number_display": "569",
       "title": "Nosso Maravilhoso Deus",
       "authors": [
@@ -18944,8 +18944,8 @@
       "chorus": null
     },
     {
-      "id": "570",
-      "number": "570",
+      "id": 570,
+      "number": 570,
       "number_display": "570",
       "title": "Maravilhoso Deus",
       "authors": [
@@ -18969,8 +18969,8 @@
       "chorus": null
     },
     {
-      "id": "571",
-      "number": "571",
+      "id": 571,
+      "number": 571,
       "number_display": "571",
       "title": "Tu És Digno",
       "authors": [
@@ -18999,8 +18999,8 @@
       "chorus": null
     },
     {
-      "id": "572",
-      "number": "572",
+      "id": 572,
+      "number": 572,
       "number_display": "572",
       "title": "Ofertório",
       "authors": [
@@ -19020,8 +19020,8 @@
       "chorus": null
     },
     {
-      "id": "573",
-      "number": "573",
+      "id": 573,
+      "number": 573,
       "number_display": "573",
       "title": "Venho Te Adorar",
       "authors": [
@@ -19038,8 +19038,8 @@
       "chorus": null
     },
     {
-      "id": "574",
-      "number": "574",
+      "id": 574,
+      "number": 574,
       "number_display": "574",
       "title": "Teu É Nosso Coração",
       "authors": [
@@ -19056,8 +19056,8 @@
       "chorus": null
     },
     {
-      "id": "575",
-      "number": "575",
+      "id": 575,
+      "number": 575,
       "number_display": "575",
       "title": "Entrego a Ti",
       "authors": [
@@ -19081,8 +19081,8 @@
       "chorus": null
     },
     {
-      "id": "576",
-      "number": "576",
+      "id": 576,
+      "number": 576,
       "number_display": "576",
       "title": "Humildade e Gratidão",
       "authors": [
@@ -19099,8 +19099,8 @@
       "chorus": null
     },
     {
-      "id": "577",
-      "number": "577",
+      "id": 577,
+      "number": 577,
       "number_display": "577",
       "title": "Quero Me Entregar",
       "authors": [
@@ -19121,8 +19121,8 @@
       "chorus": null
     },
     {
-      "id": "578",
-      "number": "578",
+      "id": 578,
+      "number": 578,
       "number_display": "578",
       "title": "Humilde Oração",
       "authors": [
@@ -19142,8 +19142,8 @@
       "chorus": null
     },
     {
-      "id": "579",
-      "number": "579",
+      "id": 579,
+      "number": 579,
       "number_display": "579",
       "title": "Ao Orarmos, Senhor",
       "authors": [
@@ -19168,8 +19168,8 @@
       "chorus": null
     },
     {
-      "id": "580",
-      "number": "580",
+      "id": 580,
+      "number": 580,
       "number_display": "580",
       "title": "Oração de Súplica",
       "authors": [
@@ -19186,8 +19186,8 @@
       "chorus": null
     },
     {
-      "id": "581",
-      "number": "581",
+      "id": 581,
+      "number": 581,
       "number_display": "581",
       "title": "Ouve-Nos, Senhor",
       "authors": [
@@ -19204,8 +19204,8 @@
       "chorus": null
     },
     {
-      "id": "582",
-      "number": "582",
+      "id": 582,
+      "number": 582,
       "number_display": "582",
       "title": "Pai, Venho a Ti",
       "authors": [
@@ -19222,8 +19222,8 @@
       "chorus": null
     },
     {
-      "id": "583",
-      "number": "583",
+      "id": 583,
+      "number": 583,
       "number_display": "583",
       "title": "Entregamos em Tuas Mãos",
       "authors": [
@@ -19244,8 +19244,8 @@
       "chorus": null
     },
     {
-      "id": "584",
-      "number": "584",
+      "id": 584,
+      "number": 584,
       "number_display": "584",
       "title": "Prece de Gratidão",
       "authors": [
@@ -19262,8 +19262,8 @@
       "chorus": null
     },
     {
-      "id": "585",
-      "number": "585",
+      "id": 585,
+      "number": 585,
       "number_display": "585",
       "title": "Vem, Espírito Santo",
       "authors": [
@@ -19280,8 +19280,8 @@
       "chorus": null
     },
     {
-      "id": "586",
-      "number": "586",
+      "id": 586,
+      "number": 586,
       "number_display": "586",
       "title": "Venham Todos",
       "authors": [
@@ -19298,8 +19298,8 @@
       "chorus": null
     },
     {
-      "id": "587A",
-      "number": "587A",
+      "id": 587,
+      "number": 587,
       "number_display": "587A",
       "title": "Chegou a Hora de Adorar ao Senhor",
       "authors": [
@@ -19320,8 +19320,8 @@
       "chorus": null
     },
     {
-      "id": "587B",
-      "number": "587B",
+      "id": 588,
+      "number": 588,
       "number_display": "587B",
       "title": "Chegou a Hora de Adorar ao Senhor",
       "authors": [
@@ -19342,8 +19342,8 @@
       "chorus": null
     },
     {
-      "id": "588",
-      "number": "588",
+      "id": 589,
+      "number": 589,
       "number_display": "588",
       "title": "Deixai Vir a Mim os Pequeninos",
       "authors": [
@@ -19364,8 +19364,8 @@
       "chorus": null
     },
     {
-      "id": "589",
-      "number": "589",
+      "id": 590,
+      "number": 590,
       "number_display": "589",
       "title": "Fala, Senhor",
       "authors": [
@@ -19382,8 +19382,8 @@
       "chorus": null
     },
     {
-      "id": "590",
-      "number": "590",
+      "id": 591,
+      "number": 591,
       "number_display": "590",
       "title": "Queremos Te Pedir",
       "authors": [
@@ -19400,8 +19400,8 @@
       "chorus": null
     },
     {
-      "id": "591",
-      "number": "591",
+      "id": 592,
+      "number": 592,
       "number_display": "591",
       "title": "Estejas Conosco",
       "authors": [
@@ -19418,8 +19418,8 @@
       "chorus": null
     },
     {
-      "id": "592",
-      "number": "592",
+      "id": 593,
+      "number": 593,
       "number_display": "592",
       "title": "Graça, Amor e Comunhão",
       "authors": [
@@ -19439,8 +19439,8 @@
       "chorus": null
     },
     {
-      "id": "593",
-      "number": "593",
+      "id": 594,
+      "number": 594,
       "number_display": "593",
       "title": "Amigo, Não Saia Sem Cristo",
       "authors": [
@@ -19457,8 +19457,8 @@
       "chorus": null
     },
     {
-      "id": "594",
-      "number": "594",
+      "id": 595,
+      "number": 595,
       "number_display": "594",
       "title": "Bênção Final",
       "authors": [
@@ -19475,8 +19475,8 @@
       "chorus": null
     },
     {
-      "id": "595",
-      "number": "595",
+      "id": 596,
+      "number": 596,
       "number_display": "595",
       "title": "A Benção",
       "authors": [
@@ -19493,8 +19493,8 @@
       "chorus": null
     },
     {
-      "id": "596",
-      "number": "596",
+      "id": 597,
+      "number": 597,
       "number_display": "596",
       "title": "Vem, Senhor",
       "authors": [
@@ -19515,8 +19515,8 @@
       "chorus": null
     },
     {
-      "id": "597",
-      "number": "597",
+      "id": 598,
+      "number": 598,
       "number_display": "597",
       "title": "Santo Lugar",
       "authors": [
@@ -19537,8 +19537,8 @@
       "chorus": null
     },
     {
-      "id": "598",
-      "number": "598",
+      "id": 599,
+      "number": 599,
       "number_display": "598",
       "title": "Que Deus Te Abençoe",
       "authors": [
@@ -19555,8 +19555,8 @@
       "chorus": null
     },
     {
-      "id": "599",
-      "number": "599",
+      "id": 600,
+      "number": 600,
       "number_display": "599",
       "title": "Que o Senhor nos Abençoe!",
       "authors": [
@@ -19573,8 +19573,8 @@
       "chorus": null
     },
     {
-      "id": "600",
-      "number": "600",
+      "id": 601,
+      "number": 601,
       "number_display": "600",
       "title": "Em Paz Eu Vou",
       "authors": [
